@@ -8,8 +8,7 @@ It is a treebank of Old Italian, more precisely Florentine. The Comedy was compo
 
 # Introduction
 
-This treebank includes 1 228 sentences (41 367 tokens, counting only single tokens and not considering multi-token words) and is a literary text (poetry). The treebank is licensed under the terms of
-[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+This treebank includes 1 228 sentences (41 367 tokens, counting only single tokens and not considering multi-token words) and is a literary text (poetry).
 
 
 ## References
@@ -26,7 +25,7 @@ Other:
 # Changelog
 
 * 2023-11-15 v2.13
-  * Initial release in Universal Dependencies.
+        * Initial release in Universal Dependencies.
 
 
 <pre>
@@ -34,13 +33,13 @@ Other:
 Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: fiction
-Lemmas: manual native
-UPOS: manual native
-XPOS: not available
-Features: manual native
+Genre: poetry
+Lemmas: converted with corrections
+UPOS: converted with corrections
+XPOS: automatic
+Features: converted with corrections
 Relations: manual native
-Contributors: Corbetta, Claudia
+Contributors: Corbetta, Claudia; Passarotti, Marco; Cecchini, Flavio Massimiliano; Moretti, Giovanni.
 Contributing: here
 Contact: claudia.corbetta@unibg.it
 ===============================================================================
