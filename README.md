@@ -21,7 +21,7 @@ Since the Italian-Old treebank is going to be expanded to include Purgatorio and
 
 # Acknowledgments
 
-This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano). 
+This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano) with the support of the University of Pavia. 
 We extend our gratitude to all the individuals who made this work possible. 
 
 For any doubts, suggestions, or reports, please do not hesitate to contact the person in charge: claudia.corbetta@unibg.it.
