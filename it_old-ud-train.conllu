@@ -1663,7 +1663,7 @@
 19	da	da	ADP	_	_	21	case	_	Canto=2|Comment=da-l|Verso=39
 20	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Canto=2|Comment=da-l|Verso=39
 21	cominciar	cominciare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	24	advcl	_	Canto=2|Verso=39
-22	tutto	tutto	DET	b	PronType=Tot	23	advcl:pred	_	Canto=2|Verso=39
+22	tutto	tutto	DET	b	PronType=Tot	23	advmod	_	Canto=2|Verso=39
 23	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	24	expl:pv	_	Canto=2|Verso=39
 24	tolle	togliere	VERB	vta*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	Canto=2|SpaceAfter=No|Verso=39
 25	,	,	PUNCT	_	_	4	punct	_	_
@@ -3701,7 +3701,7 @@
 3	ritrasser	ritrarre	VERB	vta+2irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=3|Verso=106
 4	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Tot	6	det	_	Canto=3|Verso=106
 5	quante	quanto	DET	ar1fp	Number=Plur|PronType=Rel	6	det	_	Canto=3|Verso=106
-6	insieme	insieme	ADV	b	_	3	advcl:pred	_	Canto=3|SpaceAfter=No|Verso=106
+6	insieme	insieme	ADV	b	_	3	advmod	_	Canto=3|SpaceAfter=No|Verso=106
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	forte	forte	ADV	b	_	9	advmod	_	Canto=3|Verso=107
 9	piangendo	piangere	VERB	vi2gp	VerbForm=Conv|Voice=Act	3	advcl	_	Canto=3|SpaceAfter=No|Verso=107
@@ -3732,7 +3732,7 @@
 8	loro	loro	PRON	pp3pyda	Clitic=Yes|Number=Plur|Person=3|PronType=Prs	9	iobj	_	Canto=3|Verso=110
 9	accennando	accennare	VERB	vi1gp	VerbForm=Conv|Voice=Act	13	advcl	_	Canto=3|SpaceAfter=No|Verso=110
 10	,	,	PUNCT	_	_	9	punct	_	_
-11	tutte	tutto	DET	pi1fp	Gender=Fem|Number=Plur|PronType=Tot	13	advcl:pred	_	Canto=3|Verso=110
+11	tutte	tutto	DET	pi1fp	Gender=Fem|Number=Plur|PronType=Tot	13	advmod	_	Canto=3|Verso=110
 12	le	le	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	Canto=3|Verso=110
 13	raccoglie	raccogliere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=3|SpaceAfter=No|Verso=110
 14	;	;	PUNCT	_	_	15	punct	_	_
@@ -3852,7 +3852,7 @@
 17	ira	ira	NOUN	sf1fs	Gender=Fem|Number=Sing	14	obl:lmod	_	Canto=3|Verso=122
 18	di	di	ADP	epskg	_	19	case	_	Canto=3|Verso=122
 19	Dio	Dio	PROPN	np	_	17	nmod	_	Canto=3|Verso=122
-20	tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	21	advcl:pred	_	Canto=3|Verso=123
+20	tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	12	det	_	Canto=3|Verso=123
 21	convegnon	convenire	VERB	vi3ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp:reported	_	Canto=3|Verso=123
 22	qui	qui	ADV	b	_	21	advmod:lmod	_	Canto=3|Verso=123
 23	d'	da	ADP	epskdl	_	25	case	_	Canto=3|SpaceAfter=No|Verso=123
@@ -4088,7 +4088,7 @@
 12	cominciò	cominciare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=4|Verso=14
 13	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Canto=4|Verso=14
 14	poeta	poeta	NOUN	sm1ms	Gender=Masc|Number=Sing	12	nsubj	_	Canto=4|Verso=14
-15	tutto	tutto	DET	b	PronType=Tot	16	advcl:pred	_	Canto=4|Verso=14
+15	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	16	advmod	_	Canto=4|Verso=14
 16	smorto	smorire	VERB	vi3pra1mssa	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	12	advcl	_	Canto=4|SpaceAfter=No|Verso=14
 17	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -4894,7 +4894,7 @@
 2	ch'	che	SCONJ	_	_	4	mark	_	Canto=4|SpaceAfter=No|Verso=97
 3	ebber	avere	AUX	vta5irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	Canto=4|Verso=97
 4	ragionato	ragionare	VERB	vi1itp3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	8	advcl	_	Canto=4|Verso=97
-5	insieme	insieme	ADV	b	_	4	advcl:pred	_	Canto=4|Verso=97
+5	insieme	insieme	ADV	b	_	4	advmod	_	Canto=4|Verso=97
 6	alquanto	alquanto	ADV	b	_	4	advmod	_	Canto=4|SpaceAfter=No|Verso=97
 7	,	,	PUNCT	_	_	4	punct	_	_
 8-9	volsersi	_	_	_	_	_	_	_	Canto=4|Verso=98
@@ -5449,7 +5449,7 @@
 9	vien	venire	VERB	vi3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	Canto=5|Verso=8
 10	dinanzi	dinanzi	ADP	eiskml	_	8	case	_	Canto=5|SpaceAfter=No|Verso=8
 11	,	,	PUNCT	_	_	9	punct	_	_
-12	tutta	tutto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Tot	14	advcl:pred	_	Canto=5|Verso=8
+12	tutta	tutto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Tot	14	advmod	_	Canto=5|Verso=8
 13	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	Canto=5|Verso=8
 14	confessa	confessare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Canto=5|SpaceAfter=No|Verso=8
 15	;	;	PUNCT	_	_	22	punct	_	_
@@ -6673,8 +6673,8 @@
 23	bocca	bocca	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obj	_	Canto=5|Verso=136
 24	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	25	iobj	_	Canto=5|Verso=136
 25	basciò	baciare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=5|Verso=136
-26	tutto	tutto	DET	b	PronType=Tot	25	advcl:pred	_	Canto=5|Verso=136
-27	tremante	tremare	VERB	vi1pp	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	26	acl	_	Canto=5|SpaceAfter=No|Verso=136
+26	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	27	advmod	_	Canto=5|Verso=136
+27	tremante	tremare	VERB	vi1pp	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	25	acl	_	Canto=5|SpaceAfter=No|Verso=136
 28	.	.	PUNCT	_	_	25	punct	_	_
 
 # sent_id = Canto5-191
@@ -6760,7 +6760,7 @@
 20	che	che	PRON	pr	PronType=Rel	25	nsubj	_	Canto=6|Verso=3
 21	di	di	ADP	epskr	_	22	case	_	Canto=6|Verso=3
 22	trestizia	tristezza	NOUN	sf1fs	Gender=Fem|Number=Sing	25	obl	_	Canto=6|Verso=3
-23	tutto	tutto	DET	b	PronType=Tot	25	advcl:pred	_	Canto=6|Verso=3
+23	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	25	advmod	_	Canto=6|Verso=3
 24	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	25	obj	_	Canto=6|Verso=3
 25	confuse	confondere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	Canto=6|SpaceAfter=No|Verso=3
 26	,	,	PUNCT	_	_	3	punct	_	_
@@ -7075,8 +7075,8 @@
 2	giacean	giacere	VERB	vi2iip3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Canto=6|Verso=37
 3	per	per	ADP	epsksl	_	4	case	_	Canto=6|Verso=37
 4	terra	terra	NOUN	sf1fs	Gender=Fem|Number=Sing	2	obl:lmod	_	Canto=6|Verso=37
-5	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Tot	2	advcl:pred	_	Canto=6|Verso=37
-6	quante	quanto	DET	ar1fp	Number=Plur|PronType=Rel	5	det	_	Canto=6|SpaceAfter=No|Verso=37
+5	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Tot	6	det	_	Canto=6|Verso=37
+6	quante	quanto	DET	ar1fp	Gender=Fem|Number=Plur	2	advmod	_	Canto=6|SpaceAfter=No|Verso=37
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	fuor	fuori	ADV	_	_	10	advmod	_	Canto=6|Verso=38
 9	d'	di	ADP	_	_	10	case	_	Canto=6|SpaceAfter=No|Verso=38
@@ -8041,7 +8041,7 @@
 17	de	di	ADP	eps	_	19	case	_	Canto=7|Verso=18
 18	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Canto=7|SpaceAfter=No|Verso=18
 19	universo	universo	NOUN	sm2ms	Gender=Masc|Number=Sing	16	nmod	_	Canto=7|Verso=18
-20	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	21	advcl:pred	_	Canto=7|Verso=18
+20	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	21	advmod	_	Canto=7|Verso=18
 21	insacca	insaccare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	Canto=7|SpaceAfter=No|Verso=18
 22	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -8258,8 +8258,8 @@
 4	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	2	orphan	_	Canto=7|SpaceAfter=No|Verso=40
 5	:	:	PUNCT	_	_	10	punct	_	_
 6	«	«	PUNCT	_	_	10	punct	_	SpaceAfter=No
-7	Tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	10	advcl:pred	_	Canto=7|Verso=40
-8	quanti	quanto	DET	ar1mp	Number=Plur|PronType=Rel	7	det	_	Canto=7|Verso=40
+7	Tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	Canto=7|Verso=40
+8	quanti	quanto	PRON	ar1mp	Number=Plur|PronType=Rel	10	nsubj	_	Canto=7|Verso=40
 9	fuor	essere	AUX	vi4irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	Canto=7|Verso=40
 10	guerci	guercio	ADJ	a1mpxc5	Gender=Masc|Number=Plur	2	ccomp:reported	_	Canto=7|Verso=40
 11	sì	così	ADV	b	_	10	advmod	_	Canto=7|Verso=41
@@ -9553,7 +9553,7 @@
 24	ancor	ancora	ADV	cssn	_	26	mark	_	Canto=8|Verso=39
 25	sie	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	Canto=8|Verso=39
 26	lordo	lordo	ADJ	a1ms	Gender=Masc|Number=Sing	22	advcl	_	Canto=8|Verso=39
-27	tutto	tutto	ADV	b	PronType=Tot	26	advmod	_	Canto=8|SpaceAfter=No|Verso=39
+27	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	26	advmod	_	Canto=8|SpaceAfter=No|Verso=39
 28	»	»	PUNCT	_	_	17	punct	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	17	punct	_	_
 
@@ -10832,7 +10832,7 @@
 15	occhio	occhio	NOUN	sm2ms	Gender=Masc|Number=Sing	19	nsubj	_	Canto=9|Verso=35
 16	m'	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	19	iobj	_	Canto=9|SpaceAfter=No|Verso=35
 17	avea	avere	AUX	vta5iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	aux	_	Canto=9|Verso=35
-18	tutto	tutto	ADV	b	PronType=Tot	19	advcl:pred	_	Canto=9|Verso=35
+18	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	19	advmod	_	Canto=9|Verso=35
 19	tratto	trarre	VERB	vta2iss3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	Canto=9|Verso=35
 20	ver'	verso	ADP	eiskml	_	23	case	_	Canto=9|Verso=36
 21	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Canto=9|SpaceAfter=No|Verso=36
@@ -11227,7 +11227,7 @@
 11	acqua	acqua	NOUN	sf1fs	Gender=Fem|Number=Sing	13	obl:lmod	_	Canto=9|Verso=77
 12	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	13	expl:pv	_	Canto=9|Verso=77
 13	dileguan	dileguare	VERB	vi+1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	advcl:cmp	_	Canto=9|Verso=77
-14	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Tot	13	advcl:pred	_	Canto=9|SpaceAfter=No|Verso=77
+14	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Tot	13	advmod	_	Canto=9|SpaceAfter=No|Verso=77
 15	,	,	PUNCT	_	_	23	punct	_	_
 16	fin	fino	ADV	_	_	23	advmod	_	Canto=9|Verso=78
 17	ch'	che	SCONJ	_	_	23	mark	_	Canto=9|SpaceAfter=No|Verso=78
@@ -12086,7 +12086,7 @@
 23	cintola	cintola	NOUN	sf1fs	Gender=Fem|Number=Sing	28	obl:lmod	_	Canto=10|Verso=33
 24	in	in	ADP	epskml	_	25	case	_	Canto=10|Verso=33
 25	sù	su	ADV	b	_	28	advmod:lmod	_	Canto=10|Verso=33
-26	tutto	tutto	ADV	b	PronType=Tot	28	advcl:pred	_	Canto=10|Verso=33
+26	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	28	advmod	_	Canto=10|Verso=33
 27	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obj	_	Canto=10|Verso=33
 28	vedrai	vedere	VERB	vta2ifs2	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	13	parataxis	_	Canto=10|SpaceAfter=No|Verso=33
 29	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
@@ -12213,7 +12213,7 @@
 11	celai	celare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=10|SpaceAfter=No|Verso=44
 12	,	,	PUNCT	_	_	17	punct	_	_
 13	ma	ma	CCONJ	csca	_	17	cc	_	Canto=10|Verso=44
-14	tutto	tutto	ADV	b	PronType=Tot	17	advcl:pred	_	Canto=10|Verso=44
+14	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	17	advmod	_	Canto=10|Verso=44
 15-16	gliel'	_	_	_	_	_	_	_	Canto=10|SpaceAfter=No|Verso=44
 15	li	li	PRON	pp3sxda	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	17	iobj	_	Canto=10|Verso=44
 16	lo	lo	PRON	pp3sxac	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	17	obj	_	Canto=10|Verso=44
@@ -12348,7 +12348,7 @@
 19	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Canto=10|Verso=57
 20	sospecciar	sospettare	VERB	vta1fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	23	nsubj:pass	_	Canto=10|Verso=57
 21	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	aux:pass	_	Canto=10|Verso=57
-22	tutto	tutto	ADV	b	PronType=Tot	23	advcl:pred	_	Canto=10|Verso=57
+22	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	23	advmod	_	Canto=10|Verso=57
 23	spento	spegnere	VERB	vtp2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	26	advcl	_	Canto=10|SpaceAfter=No|Verso=57
 24	,	,	PUNCT	_	_	23	punct	_	_
 25	piangendo	piangere	VERB	vi2gp	VerbForm=Conv|Voice=Act	26	advcl	_	Canto=10|Verso=58
@@ -12822,7 +12822,7 @@
 4	o	o	CCONJ	cscd	_	5	cc	_	Canto=10|Verso=103
 5	son	essere	VERB	vi4ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	Canto=10|SpaceAfter=No|Verso=103
 6	,	,	PUNCT	_	_	3	punct	_	_
-7	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	9	advcl:pred	_	Canto=10|Verso=103
+7	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	9	advmod	_	Canto=10|Verso=103
 8	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Canto=10|Verso=103
 9	vano	vano	ADJ	a1ms	Gender=Masc|Number=Sing	0	root	_	Canto=10|Verso=103
 10	nostro	nostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	Canto=10|Verso=104
@@ -13437,7 +13437,7 @@
 4	primo	primo	ADJ	an1ms	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	Canto=11|Verso=28
 5	cerchio	cerchio	NOUN	sm2ms	Gender=Masc|Number=Sing	2	nsubj	_	Canto=11|Verso=28
 6	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Canto=11|Verso=28
-7	tutto	tutto	DET	a1msxc5	Gender=Masc|Number=Sing|PronType=Tot	2	advcl:pred	_	Canto=11|SpaceAfter=No|Verso=28
+7	tutto	tutto	DET	a1msxc5	Gender=Masc|Number=Sing|PronType=Tot	2	advmod	_	Canto=11|SpaceAfter=No|Verso=28
 8	;	;	PUNCT	_	_	22	punct	_	_
 9	ma	ma	CCONJ	csca	_	22	cc	_	Canto=11|Verso=29
 10	perché	perché	SCONJ	ccsc	_	12	mark	_	Canto=11|Verso=29
@@ -14232,7 +14232,7 @@
 21	e	e	CCONJ	cscc	_	28	cc	_	Canto=11|Verso=114
 22	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Canto=11|Verso=114
 23	Carro	carro	NOUN	sm2ms	Gender=Masc|Number=Sing	28	nsubj	_	Canto=11|Verso=114
-24	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	28	advcl:pred	_	Canto=11|Verso=114
+24	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	28	advmod	_	Canto=11|Verso=114
 25	sovra	sopra	ADP	eisksl	_	27	case	_	Canto=11|Verso=114
 26	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Canto=11|Verso=114
 27	Coro	coro	NOUN	sm2ms	Gender=Masc|Number=Sing	28	obl:lmod	_	Canto=11|Verso=114
@@ -14755,7 +14755,7 @@
 10	come	come	ADV	b	_	11	mark	_	Canto=12|Verso=53
 11	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|Person=1|PronType=Dem	8	advcl:cmp	_	Canto=12|Verso=53
 12	che	che	PRON	pr	PronType=Rel	16	nsubj	_	Canto=12|Verso=53
-13	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	16	advcl:pred	_	Canto=12|Verso=53
+13	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	16	advmod	_	Canto=12|Verso=53
 14	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Canto=12|Verso=53
 15	piano	piano	NOUN	sm2ms	Gender=Masc|Number=Sing	16	obj	_	Canto=12|Verso=53
 16	abbraccia	abbracciare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	Canto=12|SpaceAfter=No|Verso=53
@@ -15849,7 +15849,7 @@
 17	per	per	ADP	epskr	_	18	case	_	Canto=13|Verso=24
 18	ch'	che	PRON	pr	PronType=Rel	23	obl	_	Canto=13|SpaceAfter=No|Verso=24
 19	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	Canto=13|Verso=24
-20	tutto	tutto	ADV	b	PronType=Tot	21	advmod	_	Canto=13|Verso=24
+20	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	21	advmod	_	Canto=13|Verso=24
 21	smarrito	smarrire	VERB	vta3pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	19	advcl:pred	_	Canto=13|Verso=24
 22	m'	mi	PRON	pf1sypr	Clitic=Yes|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	23	obj	_	Canto=13|SpaceAfter=No|Verso=24
 23	arrestai	arrestare	VERB	vta+1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	Canto=13|SpaceAfter=No|Verso=24
@@ -18301,7 +18301,7 @@
 13	tondo	tondo	ADJ	a1ms	Gender=Masc|Number=Sing	8	ccomp	_	Canto=14|SpaceAfter=No|Verso=124
 14	;	;	PUNCT	_	_	40	punct	_	_
 15	e	e	CCONJ	cscc	_	40	cc	_	Canto=14|Verso=125
-16	tutto	tutto	ADV	_	_	20	advmod	_	Canto=14|Verso=125
+16	tutto	tutto	DET	_	Gender=Masc|Number=Sing|PronType=Tot	20	advmod	_	Canto=14|Verso=125
 17	che	che	SCONJ	_	_	20	mark	_	Canto=14|Verso=125
 18	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	Canto=14|Verso=125
 19	sie	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	Canto=14|Verso=125
@@ -18587,7 +18587,7 @@
 52	fatti	fare	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Canto=15|Verso=10
 53	quelli	quello	PRON	pd1mp	Gender=Masc|Number=Plur|Person=1|PronType=Dem	52	nsubj:pass	_	Canto=15|SpaceAfter=No|Verso=10
 54	,	,	PUNCT	_	_	71	punct	_	_
-55	tutto	tutto	ADV	_	PronType=Tot	71	advmod	_	Canto=15|Verso=11
+55	tutto	tutto	ADV	_	_	71	advmod	_	Canto=15|Verso=11
 56	che	che	SCONJ	_	_	71	mark	_	Canto=15|Verso=11
 57	né	né	CCONJ	cscr	_	59	cc	_	Canto=15|Verso=11
 58	sì	così	ADV	b	_	59	advmod	_	Canto=15|Verso=11
@@ -19257,7 +19257,7 @@
 1	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
 2	Se	se	SCONJ	cssv	_	5	mark	_	Canto=15|Verso=79
 3	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	Canto=15|Verso=79
-4	tutto	tutto	ADV	b	PronType=Tot	5	advmod	_	Canto=15|Verso=79
+4	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	5	advmod	_	Canto=15|Verso=79
 5	pieno	pieno	ADJ	a1ms	Gender=Masc|Number=Sing	24	advcl	_	Canto=15|Verso=79
 6	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Canto=15|Verso=79
 7	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	Canto=15|Verso=79
@@ -19922,9 +19922,9 @@
 21	rota	ruota	NOUN	sf1fs	Gender=Fem|Number=Sing	19	obj	_	Canto=16|Verso=21
 22	di	di	ADP	epskz	_	23	case	_	Canto=16|Verso=21
 23	sé	sé	PRON	pf3lpr	Person=3|PronType=Prs|Reflex=Yes	21	nmod	_	Canto=16|Verso=21
-24	tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	19	advcl:pred	_	Canto=16|Verso=21
+24	tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	19	nsubj	_	Canto=16|Verso=21
 25	e	e	CCONJ	cscc	_	26	cc	_	Canto=16|Verso=21
-26	trei	tre	NUM	an	NumType=Card	24	nmod	_	Canto=16|SpaceAfter=No|Verso=21
+26	trei	tre	NUM	an	NumType=Card	24	conj	_	Canto=16|SpaceAfter=No|Verso=21
 27	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Canto16-554
@@ -20357,7 +20357,7 @@
 42-43	del	_	_	_	_	_	_	_	_
 42	di	di	ADP	_	_	44	case	_	Canto=16|Verso=69
 43	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	Canto=16|Verso=69
-44	tutto	tutto	ADV	_	PronType=Tot	48	advmod	_	Canto=16|Verso=69
+44	tutto	tutto	DET	_	Gender=Masc|Number=Sing|PronType=Tot	48	advmod	_	Canto=16|Verso=69
 45	se	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	48	expl:pv	_	Canto=16|Verso=69
 46	n'	ne	PRON	by	Clitic=Yes|PronType=Prs	48	expl	_	Canto=16|SpaceAfter=No|Verso=69
 47	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	aux	_	Canto=16|Verso=69
@@ -21034,7 +21034,7 @@
 1	Ecco	ecco	ADV	b	_	2	advmod	_	Canto=17|Verso=3
 2	colei	colei	PRON	pdfs	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Canto=17|Verso=3
 3	che	che	PRON	pr	PronType=Rel	7	nsubj	_	Canto=17|Verso=3
-4	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	7	advcl:pred	_	Canto=17|Verso=3
+4	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	6	det	_	Canto=17|Verso=3
 5	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Canto=17|Verso=3
 6	mondo	mondo	NOUN	sm2ms	Gender=Masc|Number=Sing	7	obj	_	Canto=17|Verso=3
 7	appuzza	appuzzare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	Canto=17|SpaceAfter=No|Verso=3
@@ -21423,7 +21423,7 @@
 9	quel	quello	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	Canto=17|Verso=44
 10	settimo	settimo	ADJ	an1ms	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	Canto=17|Verso=44
 11	cerchio	cerchio	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nmod	_	Canto=17|Verso=44
-12	tutto	tutto	ADV	b	PronType=Tot	13	advmod	_	Canto=17|Verso=44
+12	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	13	advmod	_	Canto=17|Verso=44
 13	solo	solo	ADJ	a1ms	Gender=Masc|Number=Sing	14	advcl:pred	_	Canto=17|Verso=44
 14	andai	andare	VERB	vi1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Canto=17|SpaceAfter=No|Verso=45
 15	,	,	PUNCT	_	_	17	punct	_	_
@@ -21845,7 +21845,7 @@
 20	,	,	PUNCT	_	_	22	punct	_	_
 21	e	e	CCONJ	cscc	_	22	cc	_	Canto=17|Verso=87
 22	triema	tremare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	Canto=17|Verso=87
-23	tutto	tutto	ADV	b	PronType=Tot	22	advmod	_	Canto=17|Verso=87
+23	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	22	advmod	_	Canto=17|Verso=87
 24	pur	pure	ADV	b	_	25	advmod	_	Canto=17|Verso=87
 25	guardando	guardare	VERB	vta1gp	VerbForm=Conv|Voice=Act	22	advcl	_	Canto=17|Verso=87
 26	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	Canto=17|Verso=87
@@ -22194,7 +22194,7 @@
 19	ond'	onde	ADV	cscn	_	24	cc	_	Canto=17|SpaceAfter=No|Verso=123
 20	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	24	nsubj	_	Canto=17|Verso=123
 21	tremando	tremare	VERB	vi1gp	VerbForm=Conv|Voice=Act	24	advcl	_	Canto=17|Verso=123
-22	tutto	tutto	ADV	b	PronType=Tot	21	advmod	_	Canto=17|Verso=123
+22	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	21	advmod	_	Canto=17|Verso=123
 23	mi	mi	PRON	pf1syle	Clitic=Yes|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	24	expl:pv	_	Canto=17|Verso=123
 24	raccoscio	riaccosciare	VERB	vi+1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	Canto=17|SpaceAfter=No|Verso=123
 25	.	.	PUNCT	_	_	5	punct	_	_
@@ -22333,7 +22333,7 @@
 5	detto	dire	VERB	vtp3pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	acl:relcl	_	Canto=18|Verso=1
 6	Malebolge	Malebolge	PROPN	np	_	5	xcomp	_	Canto=18|SpaceAfter=No|Verso=1
 7	,	,	PUNCT	_	_	8	punct	_	_
-8	tutto	tutto	ADV	b	PronType=Tot	2	advcl:pred	_	Canto=18|Verso=2
+8	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	2	advmod	_	Canto=18|Verso=2
 9	di	di	ADP	epskz	_	10	case	_	Canto=18|Verso=2
 10	pietra	pietra	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obl	_	Canto=18|Verso=2
 11	di	di	ADP	epskq	_	12	case	_	Canto=18|Verso=2

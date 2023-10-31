@@ -740,7 +740,7 @@
 6	vie	via	NOUN	sf1fp	Gender=Fem|Number=Plur	2	conj	_	Canto=27|Verso=76
 7	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Canto=27|Verso=77
 8	seppi	sapere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=27|Verso=77
-9	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Tot	8	advcl:pred	_	Canto=27|SpaceAfter=No|Verso=77
+9	tutte	tutto	DET	ai1fp	Gender=Fem|Number=Plur|PronType=Tot	8	advmod	_	Canto=27|SpaceAfter=No|Verso=77
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	e	e	CCONJ	cscc	_	13	cc	_	Canto=27|Verso=77
 12	sì	così	ADV	b	_	13	advmod	_	Canto=27|Verso=77
@@ -1528,7 +1528,7 @@
 # text = Mentre che tutto in lui veder m'attacco, guardommi e con le man s'aperse il petto, dicendo: «Or vedi com'io mi dilacco! vedi come storpiato è Maometto! dinanzi a me sen va piangendo Alì, fesso nel volto dal mento al ciuffetto.
 1	Mentre	mentre	SCONJ	_	_	8	mark	_	Canto=28|Verso=28
 2	che	che	SCONJ	_	_	8	mark	_	Canto=28|Verso=28
-3	tutto	tutto	ADV	b	PronType=Tot	8	advcl:pred	_	Canto=28|Verso=28
+3	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	8	advmod	_	Canto=28|Verso=28
 4	in	in	ADP	epskml	_	5	case	_	Canto=28|Verso=28
 5	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl:lmod	_	Canto=28|Verso=28
 6	veder	vedere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	Canto=28|Verso=28
@@ -1860,7 +1860,7 @@
 7-9	girsene	_	_	_	_	_	_	_	Canto=28|Verso=61
 7	gire	gire	VERB	vi+3fp	Tense=Pres|VerbForm=Inf	10	advcl	_	Canto=28|Verso=61
 8	si	si	PRON	pf3xle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	Canto=28|Verso=61
-9	ne	ne	ADV	bx	Clitic=Yes	7	advmod	_	Canto=28|Verso=61
+9	ne	ne	PRON	bx	Clitic=Yes|PronType=Prs	7	expl	_	Canto=28|Verso=61
 10	sospese	sospendere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	Canto=28|SpaceAfter=No|Verso=61
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	Maometto	Maometto	PROPN	np	_	14	nsubj	_	Canto=28|Verso=62
@@ -3033,7 +3033,7 @@
 20	vi	vi	ADV	by	Clitic=Yes	21	advmod:lmod	_	Canto=29|Verso=39
 21	fosse	essere	VERB	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	Canto=29|SpaceAfter=No|Verso=39
 22	,	,	PUNCT	_	_	25	punct	_	_
-23	tutto	tutto	ADV	b	PronType=Tot	25	advmod	_	Canto=29|Verso=39
+23	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	25	advmod	_	Canto=29|Verso=39
 24	ad	a	ADP	_	_	25	case	_	Canto=29|Verso=39
 25	imo	imo	NOUN	_	Gender=Masc|Number=Sing	15	obl:lmod	_	Canto=29|SpaceAfter=No|Verso=39
 26	.	.	PUNCT	_	_	2	punct	_	_
@@ -3115,7 +3115,7 @@
 26	in	in	ADP	epsksl	_	28	case	_	Canto=29|Verso=49
 27	una	uno	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	28	det	_	Canto=29|Verso=49
 28	fossa	fossa	NOUN	sf1fs	Gender=Fem|Number=Sing	2	advcl	_	Canto=29|Verso=49
-29	tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	28	advcl:pred	_	Canto=29|Verso=49
+29	tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	30	advmod	_	Canto=29|Verso=49
 30	'nsembre	insieme	ADV	b	_	28	advmod	_	Canto=29|SpaceAfter=No|Verso=49
 31	,	,	PUNCT	_	_	2	punct	_	_
 32	tal	tale	DET	a2ns	_	34	xcomp	_	Canto=29|Verso=50
@@ -3225,7 +3225,7 @@
 33	vermo	verme	NOUN	sm2ms	Gender=Masc|Number=Sing	35	obl	_	Canto=29|SpaceAfter=No|Verso=61
 34	,	,	PUNCT	_	_	33	punct	_	_
 35	cascaron	cascare	VERB	vi1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	advcl	_	Canto=29|Verso=62
-36	tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	35	advcl:pred	_	Canto=29|SpaceAfter=No|Verso=62
+36	tutti	tutto	DET	ai1mp	Gender=Masc|Number=Plur|PronType=Tot	35	advmod	_	Canto=29|SpaceAfter=No|Verso=62
 37	,	,	PUNCT	_	_	53	punct	_	_
 38	e	e	CCONJ	cscc	_	53	cc	_	Canto=29|Verso=62
 39	poi	poi	ADV	b	_	53	advmod:tmod	_	Canto=29|Verso=62
@@ -3581,7 +3581,7 @@
 3	maestro	maestro	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nsubj	_	Canto=29|Verso=100
 4	a	a	ADP	epskml	_	5	case	_	Canto=29|Verso=100
 5	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	8	obl	_	Canto=29|Verso=100
-6	tutto	tutto	ADV	b	PronType=Tot	8	advcl:pred	_	Canto=29|Verso=100
+6	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	8	advmod	_	Canto=29|Verso=100
 7	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	Canto=29|SpaceAfter=No|Verso=100
 8	accolse	accogliere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=29|SpaceAfter=No|Verso=100
 9	,	,	PUNCT	_	_	10	punct	_	_
@@ -7245,7 +7245,7 @@
 25	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	Canto=32|Comment=de-l|Verso=42
 26	capo	capo	NOUN	sm2ms	Gender=Masc|Number=Sing	23	nmod	_	Canto=32|Verso=42
 27	avieno	avere	VERB	vta5iip3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	Canto=32|Verso=42
-28	insieme	insieme	ADV	b	_	27	advcl:pred	_	Canto=32|Verso=42
+28	insieme	insieme	ADV	b	_	27	advmod	_	Canto=32|Verso=42
 29	misto	misto	ADJ	a1ms	Gender=Masc|Number=Sing	27	xcomp	_	Canto=32|SpaceAfter=No|Verso=42
 30	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -7341,7 +7341,7 @@
 14	due	due	NUM	an	NumType=Card	15	nummod	_	Canto=32|Verso=50
 15	becchi	becco	NOUN	sm2mp	Gender=Masc|Number=Plur	16	advcl:cmp	_	Canto=32|Verso=50
 16	cozzaro	cozzare	VERB	vi1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	Canto=32|Verso=51
-17	insieme	insieme	ADV	b	_	16	advcl:pred	_	Canto=32|SpaceAfter=No|Verso=51
+17	insieme	insieme	ADV	b	_	16	advmod	_	Canto=32|SpaceAfter=No|Verso=51
 18	,	,	PUNCT	_	_	22	punct	_	_
 19	tanta	tanto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Ind	20	det	_	Canto=32|Verso=51
 20	ira	ira	NOUN	sf1fs	Gender=Fem|Number=Sing	22	nsubj	_	Canto=32|Verso=51
@@ -9175,7 +9175,7 @@
 18	giù	giù	ADV	_	_	16	advmod:lmod	_	Canto=33|SpaceAfter=No|Verso=93
 19	,	,	PUNCT	_	_	22	punct	_	_
 20	ma	ma	CCONJ	csca	_	22	cc	_	Canto=33|Verso=93
-21	tutta	tutto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Tot	22	advcl:pred	_	Canto=33|Verso=93
+21	tutta	tutto	DET	ai1fs	Gender=Fem|Number=Sing|PronType=Tot	22	advmod	_	Canto=33|Verso=93
 22	riversata	riversare	VERB	vta1pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	16	conj	_	Canto=33|SpaceAfter=No|Verso=93
 23	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -9573,7 +9573,7 @@
 43	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	Canto=33|Verso=132
 44	tempo	tempo	NOUN	sm2ms	Gender=Masc|Number=Sing	48	nsubj	_	Canto=33|Verso=132
 45	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	44	det:poss	_	Canto=33|Verso=132
-46	tutto	tutto	ADV	b	PronType=Tot	48	advcl:pred	_	Canto=33|Verso=132
+46	tutto	tutto	DET	b	Gender=Masc|Number=Sing|PronType=Tot	48	advmod	_	Canto=33|Verso=132
 47	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	aux	_	Canto=33|Verso=132
 48	vòlto	volgere	VERB	vi2crs3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	40	advcl	_	Canto=33|SpaceAfter=No|Verso=132
 49	.	.	PUNCT	_	_	15	punct	_	_
@@ -10335,7 +10335,7 @@
 24	:	:	PUNCT	_	_	29	punct	_	_
 25	quindi	quindi	ADV	b	_	29	advmod	_	Canto=34|Verso=52
 26	Cocito	Cocito	PROPN	np	_	29	nsubj	_	Canto=34|Verso=52
-27	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	29	advcl:pred	_	Canto=34|Verso=52
+27	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Tot	29	advmod	_	Canto=34|Verso=52
 28	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	29	expl:pv	_	Canto=34|SpaceAfter=No|Verso=52
 29	aggelava	aggelare	VERB	vi+1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	Canto=34|SpaceAfter=No|Verso=52
 30	.	.	PUNCT	_	_	2	punct	_	_
