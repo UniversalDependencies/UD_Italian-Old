@@ -1,14 +1,30 @@
 # Summary
 
-
 Italian-Old is a treebank containing **Dante Alighieri's Comedy**, based on the 1994 Petrocchi edition and taken from the [**DanteSearch corpus**](https://dantesearch.dantenetwork.it), originally created at the University of Pisa, Italy. The syntactic annotation has been done from scratch, following UD annotation scheme.
 
-It is a treebank of Old Italian, more precisely Florentine. The Comedy was composed from around 1306 to 1321.
+It is a treebank of Old Italian, specifically Florentine. The Comedy was composed between approximately 1306 and 1321. 
 
 
 # Introduction
 
-This treebank includes 1 228 sentences (41 367 tokens, counting only single tokens and not considering multi-token words) and is a literary text (poetry).
+This treebank includes 1 228 sentences (41 367 tokens, counting only single tokens and not considering multi-token words) and is a literary text (poetry). It contains only the first Cantica of the Comedy, Inferno. We are currently working on annotating Purgatorio and Paradiso.
+
+The treebank is split into three subsets, `dev`, `test` and `train`, with a respective approximate ratio of 10%/10%/80%. 
+The distribution of the Inferno with respect to the subsets is as follows:
+
+* `train`: 1-18 Canti
+* `dev`: 19-26 Canti
+* `test`: 27-34 Canti
+
+Since the Italian-Old treebank is going to be expanded to include Purgatorio and Paradiso, its structure is subject to changes.
+
+
+# Acknowledgments
+
+This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano). 
+We extend our gratitude to all the individuals who made this work possible. 
+
+For any doubts, suggestions, or reports, please do not hesitate to contact the person in charge: claudia.corbetta@unibg.it.
 
 
 ## References
