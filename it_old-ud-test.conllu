@@ -6059,11 +6059,11 @@
 # sent_id = Canto31-1061
 # text = «Raphèl maì amècche zabì almi», cominciò a gridar la fiera bocca, cui non si convenia più dolci salmi.
 1	«	«	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Raphèl	Raphèl	X	np	_	9	ccomp:reported	_	Canto=31|Verso=67
-3	maì	maì	X	_	_	2	flat:foreign	_	Canto=31|Verso=67
-4	amècche	amèche	X	_	_	2	flat:foreign	_	Canto=31|Verso=67
-5	zabì	zabì	X	_	_	2	flat:foreign	_	Canto=31|Verso=67
-6	almi	almi	X	_	_	2	flat:foreign	_	Canto=31|SpaceAfter=No|Verso=67
+2	Raphèl	Raphèl	X	np	Foreign=Yes	9	ccomp:reported	_	Canto=31|Verso=67
+3	maì	maì	X	_	Foreign=Yes	2	flat:foreign	_	Canto=31|Verso=67
+4	amècche	amèche	X	_	Foreign=Yes	2	flat:foreign	_	Canto=31|Verso=67
+5	zabì	zabì	X	_	Foreign=Yes	2	flat:foreign	_	Canto=31|Verso=67
+6	almi	almi	X	_	Foreign=Yes	2	flat:foreign	_	Canto=31|SpaceAfter=No|Verso=67
 7	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	_
 9	cominciò	cominciare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=31|Verso=68
@@ -9839,10 +9839,10 @@
 # sent_id = Canto34-1154
 # text = «Vexilla regis prodeunt inferni verso di noi; però dinanzi mira», disse 'l maestro mio, «se tu 'l discerni».
 1	«	«	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Vexilla	vexilla	X	_	_	15	ccomp:reported	_	Canto=34|Verso=1
-3	regis	regis	X	_	_	2	flat:foreign	_	Canto=34|Verso=1
-4	prodeunt	prodeunt	X	_	_	2	flat:foreign	_	Canto=34|Verso=1
-5	inferni	inferni	X	_	_	2	flat:foreign	_	Canto=34|Verso=1
+2	Vexilla	vexilla	X	_	Foreign=Yes	15	ccomp:reported	_	Canto=34|Verso=1
+3	regis	regis	X	_	Foreign=Yes	2	flat:foreign	_	Canto=34|Verso=1
+4	prodeunt	prodeunt	X	_	Foreign=Yes	2	flat:foreign	_	Canto=34|Verso=1
+5	inferni	inferni	X	_	Foreign=Yes	2	flat:foreign	_	Canto=34|Verso=1
 6	verso	verso	ADP	_	_	8	case	_	Canto=34|Verso=2
 7	di	di	ADP	_	_	8	case	_	Canto=34|Verso=2
 8	noi	noi	PRON	pp1plco	Number=Plur|Person=1|PronType=Prs	2	obl:lmod	_	Canto=34|SpaceAfter=No|Verso=2
