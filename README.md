@@ -16,7 +16,7 @@ The distribution of the Inferno with respect to the subsets is as follows:
 * `dev`: 19-26 Canti
 * `test`: 27-34 Canti
 
-Since the Italian-Old treebank is going to be expanded to include Purgatorio and Paradiso, its structure is subject to changes.
+!!! Since the Italian-Old treebank is going to be expanded to include Purgatorio and Paradiso, its structure is subject to changes.
 
 
 # Acknowledgments
