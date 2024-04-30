@@ -11,15 +11,17 @@ This treebank includes 2 402 sentences (82 644 tokens, counting only single toke
 
 The treebank is split into three subsets, `dev`, `test` and `train`, with approximate ratios of 10%, 10%, and 80%, respectively, for Inferno and Purgatorio. These subsets are then merged into unique `dev`, `test` and `train` sets.
 
-The distribution of Inferno (tokens: 41367) with respect to the subsets is as follows:
-* `train`: 1002 sentences (OldItalian_Dante_Inferno-1; OldItalian_Dante_Inferno-1002) - 33103 tokens
-* `dev`: 107 sentences (OldItalian_Dante_Inferno-1003; OldItalian_Dante_Inferno-1109) - 4136 tokens
-* `test`: 119 sentences (OldItalian_Dante_Inferno-1110; OldItalian_Dante_Inferno-1228) - 4128 tokens
+The distribution of Inferno (tokens: 41 367) with respect to the subsets is as follows:
+* `train`: 902 sentences (OldItalian_Dante_Inferno-1; OldItalian_Dante_Inferno-902) - 28 995 tokens
+* `dev`: 151 sentences (OldItalian_Dante_Inferno-903; OldItalian_Dante_Inferno-1053) - 6 232 tokens
+* `test`: 175 sentences (OldItalian_Dante_Inferno-1054; OldItalian_Dante_Inferno-1228) - 6 140 tokens
 
-The distribution of Purgatorio (tokens: 41277) with respect to the subsets is as follows:
-* `train`: 958 sentences (OldItalian_Dante_Purgatorio-1; OldItalian_Dante_Purgatorio-958) - 33031 tokens
-* `dev`: 100 sentences (OldItalian_Dante_Purgatorio-959; OldItalian_Dante_Purgatorio-1058) - 4130 tokens
-* `test`: 116 sentences (OldItalian_Dante_Purgatorio-1059; OldItalian_Dante_Purgatorio-1174) - 4116 tokens
+
+The distribution of Purgatorio (tokens: 41 277) with respect to the subsets is as follows:
+* `train`: 846 sentences (OldItalian_Dante_Purgatorio-1; OldItalian_Dante_Purgatorio-846) - 28 903 tokens
+* `dev`: 165 sentences (OldItalian_Dante_Purgatorio-847; OldItalian_Dante_Purgatorio-1011) - 6 207 tokens
+* `test`: 163 sentences (OldItalian_Dante_Purgatorio-1012; OldItalian_Dante_Purgatorio-1174) - 6 167 tokens
+
 
 **Since the Italian-Old treebank is going to be expanded to include Paradiso, its structure is subject to changes.**
 
