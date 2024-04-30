@@ -9,7 +9,7 @@ It is a treebank of Old Italian, specifically Florentine. The Comedy was compose
 
 This treebank includes 2 402 sentences (82 644 tokens, counting only single tokens and not considering multi-token words) and is a literary text (poetry). It contains only Inferno and Purgatorio. Specifically, Inferno includes 1 228 sentences and 41 367 tokens and Purgatorio consists of 1 174 sentences and 41 277 tokens. We are currently working on annotating Paradiso.
 
-The treebank is split into three subsets, `dev`, `test` and `train`, with approximate ratios of 10%, 10%, and 80%, respectively, for Inferno and Purgatorio. These subsets are then merged into unique `dev`, `test` and `train` sets.
+The treebank is split into three subsets, `dev`, `test` and `train`, with approximate ratios of 15%, 15%, and 70%, respectively, for Inferno and Purgatorio. These subsets are then merged into unique `dev`, `test` and `train` sets.
 
 The distribution of Inferno (tokens: 41 367) with respect to the subsets is as follows:
 * `train`: 902 sentences (OldItalian_Dante_Inferno-1; OldItalian_Dante_Inferno-902) - 28 995 tokens
