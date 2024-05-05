@@ -7,22 +7,31 @@ It is a treebank of Old Italian, specifically Florentine. The Comedy was compose
 
 # Introduction
 
-This treebank includes 1 228 sentences (41 367 tokens, counting only single tokens and not considering multi-token words) and is a literary text (poetry). It contains only the first Cantica of the Comedy, Inferno. We are currently working on annotating Purgatorio and Paradiso.
+This treebank includes 2 402 sentences (82 644 tokens, counting only single tokens and not considering multi-token words) and is a literary text (poetry). It contains only Inferno and Purgatorio. Specifically, Inferno includes 1 228 sentences and 41 367 tokens and Purgatorio consists of 1 174 sentences and 41 277 tokens. We are currently working on annotating Paradiso.
 
-The treebank is split into three subsets, `dev`, `test` and `train`, with a respective approximate ratio of 10%/10%/80%.
-The distribution of the Inferno with respect to the subsets is as follows:
+The treebank is split into three subsets, `dev`, `test` and `train`, with approximate ratios of 15%, 15%, and 70%, respectively, for Inferno and Purgatorio. These subsets are then merged into unique `dev`, `test` and `train` sets.
 
-* `train`: 1-18 Canti
-* `dev`: 19-26 Canti
-* `test`: 27-34 Canti
+The distribution of Inferno (tokens: 41 367) with respect to the subsets is as follows:
+* `train`: 902 sentences (OldItalian_Dante_Inferno-1; OldItalian_Dante_Inferno-902) - 28 995 tokens
+* `dev`: 151 sentences (OldItalian_Dante_Inferno-903; OldItalian_Dante_Inferno-1053) - 6 232 tokens
+* `test`: 175 sentences (OldItalian_Dante_Inferno-1054; OldItalian_Dante_Inferno-1228) - 6 140 tokens
 
-Since the Italian-Old treebank is going to be expanded to include Purgatorio and Paradiso, its structure is subject to changes.
+
+The distribution of Purgatorio (tokens: 41 277) with respect to the subsets is as follows:
+* `train`: 846 sentences (OldItalian_Dante_Purgatorio-1; OldItalian_Dante_Purgatorio-846) - 28 903 tokens
+* `dev`: 165 sentences (OldItalian_Dante_Purgatorio-847; OldItalian_Dante_Purgatorio-1011) - 6 207 tokens
+* `test`: 163 sentences (OldItalian_Dante_Purgatorio-1012; OldItalian_Dante_Purgatorio-1174) - 6 167 tokens
+
+
+**Since the Italian-Old treebank is going to be expanded to include Paradiso, its structure is subject to changes.**
 
 
 # Acknowledgments
 
-This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano) with the support of the University of Pavia.
-We extend our gratitude to all the individuals who made this work possible.
+This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano).
+We extend our gratitude to all the individuals who made this work possible. 
+The annotation of the sonnet by Arnaut Daniel (Purgatorio, XXVI vv.140-147) was carried out by Michele Tron.
+
 
 For any doubts, suggestions, or reports, please do not hesitate to contact the person in charge: claudia.corbetta@unibg.it.
 
