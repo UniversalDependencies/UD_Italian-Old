@@ -2,7 +2,9 @@
 
 Italian-Old is a treebank containing **Dante Alighieri's Comedy**, based on the 1994 Petrocchi edition and taken from the [**DanteSearch corpus**](https://dantesearch.dantenetwork.it), originally created at the University of Pisa, Italy. The syntactic annotation has been done from scratch, following UD annotation scheme.
 
-It is a treebank of Old Italian, specifically Florentine. The Comedy was composed between approximately 1306 and 1321.
+It is a treebank of Old Italian, specifically  Florentine. The Comedy was composed between approximately 1306 and 1321.
+
+The treebank also includes enhanced dependency annotation, with a specific focus on the `orphan` dependency relation. For the criteria adopted in the enhanced annotation, please refer to the paper "«Are you Afraid of Ghosts?» A Proposal for Busting Predicate Ellipsis in Universal Dependencies" (Corbetta et al., 2025).
 
 # Introduction
 
@@ -25,12 +27,11 @@ The distribution of Paradiso (tokens: 39 393) with respect to the subsets is as 
 * `dev`: 101 sentences (OldItalian_Dante_Paradiso-815; OldItalian_Dante_Paradiso-915) - 3951 tokens
 * `test`: 102 sentences (OldItalian_Dante_Paradiso-916; OldItalian_Dante_Paradiso-1017) - 3896 tokens
 
-**!!  Italian-Old treebank is still under revision to check for mistakes and inconsistencies throughout the annotation of the Cantiche; therefore, its structure is subject to change.**
-
+**!!  Italian-Old treebank is still under revision to check for mistakes and inconsistencies throughout the annotation of the Cantiche; therefore, its structure is subject to change. If you use the resource and find any problems, please do not hesitate to contact the author to suggest a correction or improvement.**
 
 # Acknowledgments
 
-This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano).
+This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano) and the University of Pavia-Bergamo (Università degli Studi di Pavia; Università degli Studi di Bergamo).
 We extend our gratitude to all the individuals who made this work possible. 
 The annotation of the sonnet by Arnaut Daniel (Purgatorio, XXVI vv.140-147) was carried out by Michele Tron.
 
@@ -42,12 +43,20 @@ For any doubts, suggestions, or reports, please do not hesitate to contact the p
 
 To cite the treebank please refer to:
 
-* C. Corbetta, M. Passarotti, F. M. Cecchini, G. Moretti, Highway to Hell. Towards a Universal Dependencies Treebank for Dante Alighieri’s Comedy, F. Boschetti, G. Lebani, B. Magnini, N. Novielli (Eds.), Proceedings of the Ninth Italian Conference on Computational Linguistics (CLiC-it 2023, Venice,
-Italy, Nov 30 - Dec 2 2023), Associazione italiana di linguistica computazionale (AILC).
+* C. Corbetta, M. Passarotti, F. M. Cecchini, G. Moretti, Hell Awaits: Building a Universal Dependencies Treebank for Dante Alighieri’s Comedy. IJCoL. Italian Journal of Computational Linguistics, 11(11-1), 2025.
+
+
+* C. Corbetta, M. Passarotti, F. M. Cecchini, G. Moretti, Highway to Hell. Towards a Universal Dependencies Treebank for Dante Alighieri’s Comedy, F. Boschetti, G. Lebani, B. Magnini, N. Novielli (Eds.), Proceedings of the Ninth Italian Conference on Computational Linguistics (CLiC-it 2023, Venice, Italy, Nov 30 - Dec 2 2023), Associazione italiana di linguistica computazionale (AILC).
 
 Other:
 
 * D. Alighieri, La Commedia secondo l’antica vulgata voll. i–iv, number 7 in Edizione nazionale delle Opere di Dante Alighieri a cura della Società Dantesca Italiana, Le Lettere, Florence, Italy, 1994. URL: https://www.lelettere.it/libro/9788871661483, editor: Giorgio Petrocchi.
+
+
+For information on the enhancement process, refer to:
+
+* C. Corbetta, F. Iurescia, M. Passarotti, «Are you Afraid of Ghosts?» A Proposal for Busting Predicate Ellipsis in Universal Dependencies, Proceedings of the 23rd International Workshop on Treebanks and Linguistic Theories (TLT, SyntaxFest 2025), 2025.
+
 
 # Changelog
 
