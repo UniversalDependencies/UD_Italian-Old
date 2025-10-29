@@ -1,8 +1,6 @@
 # Summary
 
-Italian-Old is a treebank containing **Dante Alighieri's Comedy**, based on the 1994 Petrocchi edition and taken from the [**DanteSearch corpus**](https://dantesearch.dantenetwork.it), originally created at the University of Pisa, Italy. The syntactic annotation has been done from scratch, following UD annotation scheme.
-
-It is a treebank of Old Italian, specifically  Florentine. The Comedy was composed between approximately 1306 and 1321.
+Italian-Old is a treebank containing **Dante Alighieri's Comedy** (composed between approximately 1306 and 1321), based on the 1994 Petrocchi edition and taken from the [**DanteSearch corpus**](https://dantesearch.dantenetwork.it), originally created at the University of Pisa, Italy. It is a treebank of Old Italian, specifically  Florentine.
 
 # Introduction
 
