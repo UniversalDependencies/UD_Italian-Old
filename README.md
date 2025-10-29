@@ -4,8 +4,6 @@ Italian-Old is a treebank containing **Dante Alighieri's Comedy**, based on the 
 
 It is a treebank of Old Italian, specifically  Florentine. The Comedy was composed between approximately 1306 and 1321.
 
-The treebank also includes enhanced dependency annotation, with a specific focus on the `orphan` dependency relation. For the criteria adopted in the enhanced annotation, please refer to the paper "«Are you Afraid of Ghosts?» A Proposal for Busting Predicate Ellipsis in Universal Dependencies" (Corbetta et al., 2025).
-
 # Introduction
 
 This treebank includes 3 419 sentences (122 038 syntactic words) and is a literary text (poetry). It is divided into three sections, known as Cantiche: Inferno, Purgatorio, and Paradiso. Specifically, Inferno includes 1 228 sentences and 41 368 syntactic words; Purgatorio consists of 1 174 sentences and 41 277 syntactic words; while Paradiso contains 1 017 sentences and 39 393 syntactic words.
@@ -26,6 +24,8 @@ The distribution of Paradiso (tokens: 39 393) with respect to the subsets is as 
 * `train`: 814 sentences (OldItalian_Dante_Paradiso-1; OldItalian_Dante_Paradiso-814) - 31546 tokens
 * `dev`: 101 sentences (OldItalian_Dante_Paradiso-815; OldItalian_Dante_Paradiso-915) - 3951 tokens
 * `test`: 102 sentences (OldItalian_Dante_Paradiso-916; OldItalian_Dante_Paradiso-1017) - 3896 tokens
+
+The treebank also includes enhanced dependencies annotation, with a specific focus on the `orphan` dependency relation. For the criteria adopted in the enhanced annotation, please refer to the paper "«Are you Afraid of Ghosts?» A Proposal for Busting Predicate Ellipsis in Universal Dependencies" (Corbetta et al., 2025).
 
 **!!  Italian-Old treebank is still under revision to check for mistakes and inconsistencies throughout the annotation of the Cantiche; therefore, its structure is subject to change. If you use the resource and find any problems, please do not hesitate to contact the author to suggest a correction or improvement.**
 
