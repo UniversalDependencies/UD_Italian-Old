@@ -1220,7 +1220,7 @@
 # text = Ond'elli a me: «Perché tu mi dischiomi, né ti dirò ch'io sia, né mosterrolti se mille fiate in sul capo mi tomi».
 1	Ond'	onde	ADV	cscn	_	2	mark	2.1:mark	Canto=32|SpaceAfter=No|Verso=100|UniqueTokenId=OldItalian_Dante_Inferno-1142_1
 2	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	2.1:nsubj	Canto=32|Verso=100|UniqueTokenId=OldItalian_Dante_Inferno-1142_2
-2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto32-1141_8
+2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto32-1141_8|Form=Diff
 3	a	a	ADP	epsk1d	_	4	case	4:case	Canto=32|Verso=100|UniqueTokenId=OldItalian_Dante_Inferno-1142_3
 4	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	2	orphan	2.1:obl	Canto=32|SpaceAfter=No|Verso=100|UniqueTokenId=OldItalian_Dante_Inferno-1142_4
 5	:	:	PUNCT	_	_	14	punct	14:punct	UniqueTokenId=OldItalian_Dante_Inferno-1142_5
@@ -2665,7 +2665,7 @@
 # text = Ond'elli a me: «Avaccio sarai dove di ciò ti farà l'occhio la risposta, veggendo la cagion che 'l fiato piove».
 1	Ond'	onde	ADV	cscn	_	2	advmod	2.1:advmod	Canto=33|SpaceAfter=No|Verso=106|UniqueTokenId=OldItalian_Dante_Inferno-1178_1
 2	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	2.1:nsubj	Canto=33|Verso=106|UniqueTokenId=OldItalian_Dante_Inferno-1178_2
-2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto33-1152_2
+2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto33-1152_2|Form=Diff
 3	a	a	ADP	epsk1d	_	4	case	4:case	Canto=33|Verso=106|UniqueTokenId=OldItalian_Dante_Inferno-1178_3
 4	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	2	orphan	2.1:obl	Canto=33|SpaceAfter=No|Verso=106|UniqueTokenId=OldItalian_Dante_Inferno-1178_4
 5	:	:	PUNCT	_	_	7	punct	7:punct	UniqueTokenId=OldItalian_Dante_Inferno-1178_5
@@ -2761,7 +2761,7 @@
 1	Per	per	ADP	epskr	_	2	case	2:case	Canto=33|Verso=115|UniqueTokenId=OldItalian_Dante_Inferno-1180_1
 2	ch'	che	PRON	pr	PronType=Rel	3	orphan	3.1:obl	Canto=33|SpaceAfter=No|Verso=115|UniqueTokenId=OldItalian_Dante_Inferno-1180_2
 3	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	0	root	3.1:nsubj	Canto=33|Verso=115|UniqueTokenId=OldItalian_Dante_Inferno-1180_3
-3.1	dissi	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=CAnto33-1152_2
+3.1	dissi	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto33-1152_2|Form=Diff
 4	a	a	ADP	epsk1d	_	5	case	5:case	Canto=33|Verso=115|UniqueTokenId=OldItalian_Dante_Inferno-1180_4
 5	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	orphan	3.1:obl	Canto=33|SpaceAfter=No|Verso=115|UniqueTokenId=OldItalian_Dante_Inferno-1180_5
 6	:	:	PUNCT	_	_	15	punct	15:punct	UniqueTokenId=OldItalian_Dante_Inferno-1180_6
@@ -2856,7 +2856,7 @@
 # text = Ed elli a me: «Come 'l mio corpo stea nel mondo sù, nulla scienza porto.
 1	Ed	e	CCONJ	cscc	_	2	cc	2.1:cc	Canto=33|Verso=122|UniqueTokenId=OldItalian_Dante_Inferno-1183_1
 2	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	2.1:nsubj	Canto=33|Verso=122|UniqueTokenId=OldItalian_Dante_Inferno-1183_2
-2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto31-1182_6
+2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto31-1182_6|Form=Diff
 3	a	a	ADP	epsk1d	_	4	case	4:case	Canto=33|Verso=122|UniqueTokenId=OldItalian_Dante_Inferno-1183_3
 4	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	2	orphan	2.1:obl	Canto=33|SpaceAfter=No|Verso=122|UniqueTokenId=OldItalian_Dante_Inferno-1183_4
 5	:	:	PUNCT	_	_	19	punct	19:punct	UniqueTokenId=OldItalian_Dante_Inferno-1183_5
@@ -3337,7 +3337,7 @@
 8	erte	ergere	VERB	vi2pra1fp	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	7	xcomp	7:xcomp	Canto=34|SpaceAfter=No|Verso=13|UniqueTokenId=OldItalian_Dante_Inferno-1197_8
 9	,	,	PUNCT	_	_	10	punct	10:punct	UniqueTokenId=OldItalian_Dante_Inferno-1197_9
 10	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	2	parataxis	10.1:nsubj	Canto=34|Verso=14|UniqueTokenId=OldItalian_Dante_Inferno-1197_10
-10.1	sta	_	_	_	_	_	_	2:parataxis	Antec=Yes|AntecPosit=Canto34-1197_7-8
+10.1	sta	_	_	_	_	_	_	2:parataxis	Antec=Yes|AntecPosit=Canto34-1197_7-8|Form=Diff
 11-12	col	_	_	_	_	_	_	_	Canto=34|Comment=co-l|Verso=14|UniqueTokenId=OldItalian_Dante_Inferno-1197_11-12
 11	con	con	ADP	_	_	13	case	13:case	Canto=34|Comment=co-l|Verso=14|UniqueTokenId=OldItalian_Dante_Inferno-1197_11
 12	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	Canto=34|Comment=co-l|Verso=14|UniqueTokenId=OldItalian_Dante_Inferno-1197_12
@@ -4256,7 +4256,7 @@
 # text = Ed elli a me: «Tu imagini ancora d'esser di là dal centro, ov'io mi presi al pel del vermo reo che 'l mondo fóra.
 1	Ed	e	CCONJ	cscc	_	2	cc	2.1:cc	Canto=34|Verso=106|UniqueTokenId=OldItalian_Dante_Inferno-1221_1
 2	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	2.1:nsubj	Canto=34|Verso=106|UniqueTokenId=OldItalian_Dante_Inferno-1221_2
-2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto34-1220_15
+2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto34-1220_15|Form=Diff
 3	a	a	ADP	epsk1d	_	4	case	4:case	Canto=34|Verso=106|UniqueTokenId=OldItalian_Dante_Inferno-1221_3
 4	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	2	orphan	2.1:obl	Canto=34|SpaceAfter=No|Verso=106|UniqueTokenId=OldItalian_Dante_Inferno-1221_4
 5	:	:	PUNCT	_	_	8	punct	8:punct	UniqueTokenId=OldItalian_Dante_Inferno-1221_5

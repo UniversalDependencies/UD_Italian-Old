@@ -60,7 +60,7 @@
 # text = E io a lui: «Dimostrami e dichiara, se vuo' ch'i' porti sù di te novella, chi è colui da la veduta amara».
 1	E	e	CCONJ	cscc	_	2	cc	2.1:cc	Canto=28|Verso=91|UniqueTokenId=OldItalian_Dante_Inferno-1004_1
 2	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	0	root	2.1:nsubj	Canto=28|Verso=91|UniqueTokenId=OldItalian_Dante_Inferno-1004_2
-2.1	dissi	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto28-1000_54
+2.1	dissi	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto28-1000_54|Form=Diff
 3	a	a	ADP	epsk1d	_	4	case	4:case	Canto=28|Verso=91|UniqueTokenId=OldItalian_Dante_Inferno-1004_3
 4	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	orphan	2.1:obl	Canto=28|SpaceAfter=No|Verso=91|UniqueTokenId=OldItalian_Dante_Inferno-1004_4
 5	:	:	PUNCT	_	_	7	punct	7:punct	UniqueTokenId=OldItalian_Dante_Inferno-1004_5
@@ -2259,7 +2259,7 @@
 # text = Ed elli a me: «Quell'è l'anima antica di Mirra scellerata, che divenne al padre, fuor del dritto amore, amica.
 1	Ed	e	CCONJ	cscc	_	2	cc	2.1:cc	Canto=30|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-1052_1
 2	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	2.1:nsubj	Canto=30|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-1052_2
-2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto30-1051_6
+2.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto30-1051_6|Form=Diff
 3	a	a	ADP	epsk1d	_	4	case	4:case	Canto=30|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-1052_3
 4	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	2	orphan	2.1:obl	Canto=30|SpaceAfter=No|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-1052_4
 5	:	:	PUNCT	_	_	10	punct	10:punct	UniqueTokenId=OldItalian_Dante_Inferno-1052_5
@@ -3059,7 +3059,7 @@
 24	,	,	PUNCT	_	_	26	punct	26.1:punct	UniqueTokenId=OldItalian_Dante_Inferno-1072_24
 25	e	e	CCONJ	cscr	_	26	cc	26.1:cc	Canto=30|Verso=117|UniqueTokenId=OldItalian_Dante_Inferno-1072_25
 26	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	20	conj	26.1:nsubj	Canto=30|Verso=117|UniqueTokenId=OldItalian_Dante_Inferno-1072_26
-26.1	qui	_	_	_	_	_	_	20:conj	Antec=Yes|AntecPosit=Canto30-1072_19-20
+26.1	qui	_	_	_	_	_	_	20:conj	Antec=Yes|AntecPosit=Canto30-1072_19-20|Form=Diff
 27	per	per	ADP	epskr	_	28	case	28:case	Canto=30|Verso=117|UniqueTokenId=OldItalian_Dante_Inferno-1072_27
 28	più	più	ADV	bc+	_	26	orphan	26.1:advmod	Canto=30|Verso=117|UniqueTokenId=OldItalian_Dante_Inferno-1072_28
 29	ch'	che	SCONJ	cssp	_	32	mark	32:mark	Canto=30|SpaceAfter=No|Verso=117|UniqueTokenId=OldItalian_Dante_Inferno-1072_29
@@ -4037,7 +4037,7 @@
 2	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Inferno-1095_2
 3	duca	duca	NOUN	sm1ms	Gender=Masc|Number=Sing	0	root	4.1:nsubj	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Inferno-1095_3
 4	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	3:det:poss	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Inferno-1095_4
-4.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto31-1094_9
+4.1	disse	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto31-1094_9|Form=Diff
 5	ver'	verso	ADP	eiskml	_	6	case	6:case	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Inferno-1095_5
 6	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	orphan	4.1:obl	Canto=31|SpaceAfter=No|Verso=70|UniqueTokenId=OldItalian_Dante_Inferno-1095_6
 7	:	:	PUNCT	_	_	12	punct	12:punct	UniqueTokenId=OldItalian_Dante_Inferno-1095_7
@@ -4325,7 +4325,7 @@
 # text = E io a lui: «S'esser puote, io vorrei che de lo smisurato Briareo esperienza avesser li occhi miei».
 1	E	e	CCONJ	cscc	_	2	cc	2.1:cc	Canto=31|Verso=97|UniqueTokenId=OldItalian_Dante_Inferno-1103_1
 2	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	0	root	2.1:nsubj	Canto=31|Verso=97|UniqueTokenId=OldItalian_Dante_Inferno-1103_2
-2.1	dissi	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto31-1101_16
+2.1	dissi	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto31-1101_16|Form=Diff
 3	a	a	ADP	epsk1d	_	4	case	4:case	Canto=31|Verso=97|UniqueTokenId=OldItalian_Dante_Inferno-1103_3
 4	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	orphan	2.1:obl	Canto=31|SpaceAfter=No|Verso=97|UniqueTokenId=OldItalian_Dante_Inferno-1103_4
 5	:	:	PUNCT	_	_	12	punct	12:punct	UniqueTokenId=OldItalian_Dante_Inferno-1103_5
