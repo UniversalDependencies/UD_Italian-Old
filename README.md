@@ -30,6 +30,7 @@ The treebank also includes enhanced dependencies annotation, with a specific foc
 # Acknowledgments
 
 This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano) and the University of Pavia-Bergamo (Università degli Studi di Pavia; Università degli Studi di Bergamo).
+Further acknowledgment goes to the CA21167 COST Action UniDive, funded by COST (European Cooperation in Science and Technology), which supported this work, with special thanks to Daniel Zeman, Petya Osenova, and Kiril Simov for their valuable feedback throughout this research.
 We extend our gratitude to all the individuals who made this work possible. 
 The annotation of the sonnet by Arnaut Daniel (Purgatorio, XXVI vv.140-147) was carried out by Michele Tron.
 
