@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Italian-Old:
-commit 9419dcb79725b4239bd05e680d7f25b63e1ff73e
-Merge: ef5dda3 c48e6be
+commit 4f949f075183de9a28ac1f2d97e069a59be06e0e
+Merge: fe03517 2c1361d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'it_old'
@@ -25,48 +25,91 @@ Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang it --max-err=10 UD_Italian-Old/it_old-ud-dev.conllu
-[Line 17 Sent OldItalian_Dante_Inferno-1003]: [L3 Warning pron-det-without-prontype] The word 'tale' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 294 Sent OldItalian_Dante_Inferno-1010]: [L3 Warning pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 403 Sent OldItalian_Dante_Inferno-1012]: [L3 Warning pron-det-without-prontype] The word 'uno' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 405 Sent OldItalian_Dante_Inferno-1012]: [L3 Warning pron-det-without-prontype] The word 'uno' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 496 Sent OldItalian_Dante_Inferno-1014]: [L3 Warning pron-det-without-prontype] The word 'l' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 849 Sent OldItalian_Dante_Inferno-1024]: [L3 Warning pron-det-without-prontype] The word 'il' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 968 Sent OldItalian_Dante_Inferno-1027]: [L3 Warning pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1058 Sent OldItalian_Dante_Inferno-1029]: [L3 Warning pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1063 Sent OldItalian_Dante_Inferno-1029]: [L3 Warning pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1336 Sent OldItalian_Dante_Inferno-1034]: [L3 Warning pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 64
-*** PASSED ***
+[Line 17 Sent OldItalian_Dante_Inferno-1003]: [L3 WARNING pron-det-without-prontype] The word 'tale' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 294 Sent OldItalian_Dante_Inferno-1010]: [L3 WARNING pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 403 Sent OldItalian_Dante_Inferno-1012]: [L3 WARNING pron-det-without-prontype] The word 'uno' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 405 Sent OldItalian_Dante_Inferno-1012]: [L3 WARNING pron-det-without-prontype] The word 'uno' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 496 Sent OldItalian_Dante_Inferno-1014]: [L3 WARNING pron-det-without-prontype] The word 'l' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 849 Sent OldItalian_Dante_Inferno-1024]: [L3 WARNING pron-det-without-prontype] The word 'il' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 968 Sent OldItalian_Dante_Inferno-1027]: [L3 WARNING pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1058 Sent OldItalian_Dante_Inferno-1029]: [L3 WARNING pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1063 Sent OldItalian_Dante_Inferno-1029]: [L3 WARNING pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1336 Sent OldItalian_Dante_Inferno-1034]: [L3 WARNING pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 2013 Sent OldItalian_Dante_Inferno-1046]: [L3 SYNTAX obl-should-be-nmod] The parent (node [93] 'carco') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5064 Sent OldItalian_Dante_Purgatorio-969]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 5482 Sent OldItalian_Dante_Purgatorio-980]: [L3 SYNTAX obl-should-be-nmod] The parent (node [19] 'colpo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8240 Sent OldItalian_Dante_Purgatorio-1043]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 9020 Sent OldItalian_Dante_Purgatorio-1057]: [L3 SYNTAX obl-should-be-nmod] The parent (node [124] 'bocca') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9692 Sent OldItalian_Dante_Paradiso-827]: [L3 SYNTAX obl-should-be-nmod] The parent (node [56] 'dove') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 60
+SYNTAX errors: 4
+*** FAILED *** with 4 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang it --max-err=10 UD_Italian-Old/it_old-ud-test.conllu
-[Line 126 Sent OldItalian_Dante_Inferno-1113]: [L3 Warning pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 159 Sent OldItalian_Dante_Inferno-1114]: [L3 Warning pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 176 Sent OldItalian_Dante_Inferno-1114]: [L3 Warning pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 876 Sent OldItalian_Dante_Inferno-1131]: [L3 Warning pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 887 Sent OldItalian_Dante_Inferno-1131]: [L3 Warning pron-det-without-prontype] The word 'i' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1277 Sent OldItalian_Dante_Inferno-1143]: [L3 Warning pron-det-without-prontype] The word 'una' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1284 Sent OldItalian_Dante_Inferno-1143]: [L3 Warning obl-should-be-nmod] The parent (node [21] 'lui') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1594 Sent OldItalian_Dante_Inferno-1150]: [L3 Warning pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1878 Sent OldItalian_Dante_Inferno-1157]: [L3 Warning pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 2223 Sent OldItalian_Dante_Inferno-1166]: [L3 Warning pron-det-without-prontype] The word 'men' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 67
-*** PASSED ***
+[Line 126 Sent OldItalian_Dante_Inferno-1113]: [L3 WARNING pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 159 Sent OldItalian_Dante_Inferno-1114]: [L3 WARNING pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 176 Sent OldItalian_Dante_Inferno-1114]: [L3 WARNING pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 876 Sent OldItalian_Dante_Inferno-1131]: [L3 WARNING pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 887 Sent OldItalian_Dante_Inferno-1131]: [L3 WARNING pron-det-without-prontype] The word 'i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1277 Sent OldItalian_Dante_Inferno-1143]: [L3 WARNING pron-det-without-prontype] The word 'una' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1284 Sent OldItalian_Dante_Inferno-1143]: [L3 SYNTAX obl-should-be-nmod] The parent (node [21] 'lui') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1594 Sent OldItalian_Dante_Inferno-1150]: [L3 WARNING pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1878 Sent OldItalian_Dante_Inferno-1157]: [L3 WARNING pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2223 Sent OldItalian_Dante_Inferno-1166]: [L3 WARNING pron-det-without-prontype] The word 'men' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2330 Sent OldItalian_Dante_Inferno-1169]: [L3 WARNING pron-det-without-prontype] The word 'uno' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 4493 Sent OldItalian_Dante_Inferno-1226]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 5397 Sent OldItalian_Dante_Purgatorio-1080]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'membra') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5586 Sent OldItalian_Dante_Purgatorio-1085]: [L3 WARNING fixed-without-extpos] Fixed expression 'o vero' does not have the 'ExtPos' feature
+[Line 5593 Sent OldItalian_Dante_Purgatorio-1085]: [L3 WARNING fixed-without-extpos] Fixed expression 'o vero' does not have the 'ExtPos' feature
+[Line 6102 Sent OldItalian_Dante_Purgatorio-1100]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'sol') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8595 Sent OldItalian_Dante_Purgatorio-1159]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
+[Line 10952 Sent OldItalian_Dante_Paradiso-958]: [L3 WARNING fixed-without-extpos] Fixed expression 'di sotto da' does not have the 'ExtPos' feature
+[Line 11151 Sent OldItalian_Dante_Paradiso-962]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+Warnings: 64
+SYNTAX errors: 3
+*** FAILED *** with 3 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang it --max-err=10 UD_Italian-Old/it_old-ud-train.conllu
-[Line 345 Sent OldItalian_Dante_Inferno-9]: [L3 Warning pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 537 Sent OldItalian_Dante_Inferno-13]: [L3 Warning pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1085 Sent OldItalian_Dante_Inferno-29]: [L3 Warning pron-det-without-prontype] The word 'ove' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 1671 Sent OldItalian_Dante_Inferno-44]: [L3 Warning pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1802 Sent OldItalian_Dante_Inferno-47]: [L3 Warning pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1974 Sent OldItalian_Dante_Inferno-50]: [L3 Warning pron-det-without-prontype] The word 'ove' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 2100 Sent OldItalian_Dante_Inferno-53]: [L3 Warning pron-det-without-prontype] The word 'ove' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 2178 Sent OldItalian_Dante_Inferno-56]: [L3 Warning pron-det-without-prontype] The word 'tale' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 2213 Sent OldItalian_Dante_Inferno-57]: [L3 Warning pron-det-without-prontype] The word 'ov'' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 2340 Sent OldItalian_Dante_Inferno-60]: [L3 Warning pron-det-without-prontype] The word 'ove' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 475
-*** PASSED ***
-Validity: 1
+[Line 345 Sent OldItalian_Dante_Inferno-9]: [L3 WARNING pron-det-without-prontype] The word 'più' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 537 Sent OldItalian_Dante_Inferno-13]: [L3 WARNING pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1085 Sent OldItalian_Dante_Inferno-29]: [L3 WARNING pron-det-without-prontype] The word 'ove' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1671 Sent OldItalian_Dante_Inferno-44]: [L3 WARNING pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1802 Sent OldItalian_Dante_Inferno-47]: [L3 WARNING pron-det-without-prontype] The word 'tal' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1974 Sent OldItalian_Dante_Inferno-50]: [L3 WARNING pron-det-without-prontype] The word 'ove' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2100 Sent OldItalian_Dante_Inferno-53]: [L3 WARNING pron-det-without-prontype] The word 'ove' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2178 Sent OldItalian_Dante_Inferno-56]: [L3 WARNING pron-det-without-prontype] The word 'tale' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2213 Sent OldItalian_Dante_Inferno-57]: [L3 WARNING pron-det-without-prontype] The word 'ov'' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2340 Sent OldItalian_Dante_Inferno-60]: [L3 WARNING pron-det-without-prontype] The word 'ove' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 8672 Sent OldItalian_Dante_Inferno-254]: [L3 SYNTAX obl-should-be-nmod] The parent (node [19] 'gente') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 17010 Sent OldItalian_Dante_Inferno-485]: [L3 SYNTAX obl-should-be-nmod] The parent (node [23] 'colpa') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 17300 Sent OldItalian_Dante_Inferno-494]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'foggia') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 21231 Sent OldItalian_Dante_Inferno-594]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] 'drappi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 22058 Sent OldItalian_Dante_Inferno-617]: [L3 SYNTAX obl-should-be-nmod] The parent (node [26] 'gioco') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 36328 Sent OldItalian_Dante_Inferno-989]: [L3 SYNTAX obl-should-be-nmod] The parent (node [69] 'ossame') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 36659 Sent OldItalian_Dante_Inferno-996]: [L3 SYNTAX obl-should-be-nmod] The parent (node [43] ''nferno') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 36661 Sent OldItalian_Dante_Inferno-996]: [L3 SYNTAX obl-should-be-nmod] The parent (node [47] 'giro') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 39976 Sent OldItalian_Dante_Purgatorio-82]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'ruina') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 40586 Sent OldItalian_Dante_Purgatorio-96]: [L3 SYNTAX obl-should-be-nmod] The parent (node [29] 'petto') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 55461 Sent OldItalian_Dante_Purgatorio-485]: [L3 WARNING fixed-without-extpos] Fixed expression 'qual che' does not have the 'ExtPos' feature
+[Line 62586 Sent OldItalian_Dante_Purgatorio-673]: [L3 WARNING fixed-without-extpos] Fixed expression 'infin dove' does not have the 'ExtPos' feature
+[Line 63512 Sent OldItalian_Dante_Purgatorio-700]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 69815 Sent OldItalian_Dante_Purgatorio-864]: [L3 WARNING fixed-without-extpos] Fixed expression 'con esso' does not have the 'ExtPos' feature
+[Line 70410 Sent OldItalian_Dante_Purgatorio-878]: [L3 WARNING fixed-without-extpos] Fixed expression 'che che' does not have the 'ExtPos' feature
+[Line 76890 Sent OldItalian_Dante_Paradiso-82]: [L3 WARNING fixed-without-extpos] Fixed expression 'non so che' does not have the 'ExtPos' feature
+[Line 78559 Sent OldItalian_Dante_Paradiso-123]: [L3 WARNING fixed-without-extpos] Fixed expression 'in quanto' does not have the 'ExtPos' feature
+[Line 82465 Sent OldItalian_Dante_Paradiso-222]: [L3 WARNING fixed-without-extpos] Fixed expression 'o ver' does not have the 'ExtPos' feature
+[Line 87345 Sent OldItalian_Dante_Paradiso-342]: [L3 WARNING fixed-without-extpos] Fixed expression 'qual ch'' does not have the 'ExtPos' feature
+[Line 88348 Sent OldItalian_Dante_Paradiso-362]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 454
+SYNTAX errors: 20
+*** FAILED *** with 20 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.9) = 0.1
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=0.9) = 0.1
@@ -74,6 +117,6 @@ Validity: 1
 (weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
 (weight=0.111111111111111) * (score{tags}=0.847058823529412) = 0.0941176470588235
 (weight=0.111111111111111) * (score{udeprels}=0.837837837837838) = 0.0930930930930931
-(TOTAL score=0.725043487960862) * (availability=1) * (validity=1) = 0.725043487960862
-STARS = 3.5
-UD_Italian-Old	0.725043487960862	3.5
+(TOTAL score=0.725043487960862) * (availability=1) * (validity=0.01) = 0.00725043487960862
+STARS = 0
+UD_Italian-Old	0.00725043487960862	0
