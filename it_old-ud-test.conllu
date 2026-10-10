@@ -123,7 +123,7 @@
 25	fece	fare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	8:parataxis	Canto=31|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1113_25
 26	sì	così	ADV	b	_	25	advmod	25:advmod	Canto=31|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1113_26
 27	ch'	che	SCONJ	cssu	_	29	mark	29:mark	Canto=31|SpaceAfter=No|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1113_27
-28	un	uno	DET	an1ms	Gender=Masc|Number=Sing	29	det	29:det	Canto=31|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1113_28
+28	un	uno	DET	an1ms	Gender=Masc|Number=Sing|PronType=Art	29	det	29:det	Canto=31|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1113_28
 29	fascio	fascio	NOUN	sm2ms	Gender=Masc|Number=Sing	25	advcl	25:advcl	Canto=31|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1113_29
 30	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	cop	29:cop	Canto=31|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1113_30
 31	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	29:nsubj	Canto=31|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1113_31
@@ -156,7 +156,7 @@
 21	incontro	incontro	ADV	b	_	22	advmod	22:advmod	Canto=31|Verso=138|UniqueTokenId=OldItalian_Dante_Inferno-1114_21
 22	penda	pendere	VERB	vi2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	14:advcl	Canto=31|SpaceAfter=No|Verso=138|UniqueTokenId=OldItalian_Dante_Inferno-1114_22
 23	:	:	PUNCT	_	_	2	punct	2:punct	UniqueTokenId=OldItalian_Dante_Inferno-1114_23
-24	tal	tale	DET	a2ns	Number=Sing	25	xcomp	25:xcomp	Canto=31|Verso=139|UniqueTokenId=OldItalian_Dante_Inferno-1114_24
+24	tal	tale	DET	a2ns	Number=Sing|PronType=Dem	25	xcomp	25:xcomp	Canto=31|Verso=139|UniqueTokenId=OldItalian_Dante_Inferno-1114_24
 25	parve	parere	VERB	vi2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Canto=31|Verso=139|UniqueTokenId=OldItalian_Dante_Inferno-1114_25
 26	Anteo	Anteo	PROPN	np	_	25	nsubj	25:nsubj	Canto=31|Verso=139|UniqueTokenId=OldItalian_Dante_Inferno-1114_26
 27	a	a	ADP	epsk1e	_	28	case	28:case	Canto=31|Verso=139|UniqueTokenId=OldItalian_Dante_Inferno-1114_27
@@ -173,7 +173,7 @@
 37	,	,	PUNCT	_	_	41	punct	41:punct	UniqueTokenId=OldItalian_Dante_Inferno-1114_37
 38	e	e	CCONJ	cscc	_	41	cc	41:cc	Canto=31|Verso=140|UniqueTokenId=OldItalian_Dante_Inferno-1114_38
 39	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	41	cop	41:cop	Canto=31|Verso=140|UniqueTokenId=OldItalian_Dante_Inferno-1114_39
-40	tal	tale	DET	a2ns	Number=Sing	41	det	41:det	Canto=31|Verso=140|UniqueTokenId=OldItalian_Dante_Inferno-1114_40
+40	tal	tale	DET	a2ns	Number=Sing|PronType=Dem	41	det	41:det	Canto=31|Verso=140|UniqueTokenId=OldItalian_Dante_Inferno-1114_40
 41	ora	ora	NOUN	sf1fs	Gender=Fem|Number=Sing	25	conj	25:conj	Canto=31|Verso=140|UniqueTokenId=OldItalian_Dante_Inferno-1114_41
 42	ch'	che	SCONJ	cssu	_	46	mark	46:mark	Canto=31|SpaceAfter=No|Verso=141|UniqueTokenId=OldItalian_Dante_Inferno-1114_42
 43	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	46	nsubj	46:nsubj	Canto=31|Verso=141|UniqueTokenId=OldItalian_Dante_Inferno-1114_43
@@ -873,7 +873,7 @@
 4	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	obj	5:obj	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Inferno-1131_4
 5	metti	mettere	VERB	vta2cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	10:advcl	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Inferno-1131_5
 6	in	in	ADP	epskml	_	8	case	8:case	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Inferno-1131_6
-7	più	più	DET	a	_	8	det	8:det	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Inferno-1131_7
+7	più	più	DET	a	PronType=Ind	8	det	8:det	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Inferno-1131_7
 8	sermoni	sermone	NOUN	sm3mp	Gender=Masc|Number=Plur	5	obl:lmod	5:obl:lmod	Canto=32|SpaceAfter=No|Verso=67|UniqueTokenId=OldItalian_Dante_Inferno-1131_8
 9	,	,	PUNCT	_	_	5	punct	5:punct	UniqueTokenId=OldItalian_Dante_Inferno-1131_9
 10	sappi	sapere	VERB	vta2mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Canto=32|Verso=68|UniqueTokenId=OldItalian_Dante_Inferno-1131_10
@@ -884,7 +884,7 @@
 15	Camiscion	Camicione	PROPN	np	_	10	ccomp	10:ccomp	Canto=32|Verso=68|UniqueTokenId=OldItalian_Dante_Inferno-1131_15
 16-17	de'	_	_	_	_	_	_	_	Canto=32|Comment=de-'|Verso=68|UniqueTokenId=OldItalian_Dante_Inferno-1131_16-17
 16	de	di	ADP	np	_	18	case	18:case	Canto=32|Verso=68|UniqueTokenId=OldItalian_Dante_Inferno-1131_16
-17	i	il	DET	np	_	18	det	18:det	Canto=32|Verso=68|UniqueTokenId=OldItalian_Dante_Inferno-1131_17
+17	i	il	DET	np	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	18:det	Canto=32|Verso=68|UniqueTokenId=OldItalian_Dante_Inferno-1131_17
 18	Pazzi	Pazzi	PROPN	np	_	15	flat:name	15:flat:name	Canto=32|SpaceAfter=No|Verso=68|UniqueTokenId=OldItalian_Dante_Inferno-1131_18
 19	;	;	PUNCT	_	_	21	punct	21:punct	UniqueTokenId=OldItalian_Dante_Inferno-1131_19
 20	e	e	CCONJ	cscc	_	21	cc	21:cc	Canto=32|Verso=69|UniqueTokenId=OldItalian_Dante_Inferno-1131_20
@@ -1274,14 +1274,14 @@
 14	avea	avere	AUX	vta5iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	11:aux	Canto=32|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1143_14
 15	più	più	ADV	_	_	11	advmod	11:advmod	Canto=32|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1143_15
 16	d'	di	ADP	eps	_	18	case	18:case	Canto=32|SpaceAfter=No|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1143_16
-17	una	uno	DET	an1fs	Gender=Fem|Number=Sing	18	det	18:det	Canto=32|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1143_17
+17	una	uno	DET	an1fs	Gender=Fem|Number=Sing|PronType=Art	18	det	18:det	Canto=32|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1143_17
 18	ciocca	ciocca	NOUN	sf1fs	Gender=Fem|Number=Sing	15	obl	15:obl	Canto=32|SpaceAfter=No|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1143_18
 19	,	,	PUNCT	_	_	20	punct	20:punct	UniqueTokenId=OldItalian_Dante_Inferno-1143_19
 20	latrando	latrare	VERB	vi1gp	VerbForm=Conv|Voice=Act	8	advcl	8:advcl	Canto=32|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_20
 21	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj	Canto=32|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_21
 22	con	con	ADP	epskm	_	24	case	24:case	Canto=32|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_22
 23	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	24:det	Canto=32|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_23
-24	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	21	obl	21:obl	Canto=32|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_24
+24	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	21	nmod	21:nmod	Canto=32|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_24
 25	in	in	ADP	_	_	26	case	26:case	Canto=32|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_25
 26	giù	giù	ADV	_	_	27	advmod:lmod	27:advmod:lmod	Canto=32|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_26
 27	raccolti	raccogliere	VERB	vta2pr	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	24	acl	24:acl	Canto=32|SpaceAfter=No|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1143_27
@@ -1591,7 +1591,7 @@
 26	,	,	PUNCT	_	_	30	punct	30:punct	UniqueTokenId=OldItalian_Dante_Inferno-1150_26
 27	«	«	PUNCT	_	_	30	punct	30:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Inferno-1150_27
 28	per	per	ADP	epskf	_	30	case	30:case	Canto=32|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1150_28
-29	tal	tale	DET	a2ms	Number=Sing	30	det	30:det	Canto=32|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1150_29
+29	tal	tale	DET	a2ms	Number=Sing|PronType=Dem	30	det	30:det	Canto=32|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1150_29
 30	convegno	convegno	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obl	18:obl	Canto=32|SpaceAfter=No|Verso=135|UniqueTokenId=OldItalian_Dante_Inferno-1150_30
 31	,	,	PUNCT	_	_	59	punct	59:punct	UniqueTokenId=OldItalian_Dante_Inferno-1150_31
 32	che	che	SCONJ	cssd	_	59	mark	59:mark	Canto=32|Verso=136|UniqueTokenId=OldItalian_Dante_Inferno-1150_32
@@ -1875,7 +1875,7 @@
 32	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	34:det	Canto=33|Verso=25|UniqueTokenId=OldItalian_Dante_Inferno-1157_32
 33	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	34	det:poss	34:det:poss	Canto=33|Verso=25|UniqueTokenId=OldItalian_Dante_Inferno-1157_33
 34	forame	forame	NOUN	sm3ms	Gender=Masc|Number=Sing	30	obl:lmod	30:obl:lmod	Canto=33|Verso=25|UniqueTokenId=OldItalian_Dante_Inferno-1157_34
-35	più	più	DET	a	_	36	det	36:det	Canto=33|Verso=26|UniqueTokenId=OldItalian_Dante_Inferno-1157_35
+35	più	più	DET	a	PronType=Ind	36	det	36:det	Canto=33|Verso=26|UniqueTokenId=OldItalian_Dante_Inferno-1157_35
 36	lune	luna	NOUN	sf1fp	Gender=Fem|Number=Plur	30	obj	30:obj	Canto=33|Verso=26|UniqueTokenId=OldItalian_Dante_Inferno-1157_36
 37	già	già	ADV	b	_	30	advmod:tmod	30:advmod:tmod	Canto=33|SpaceAfter=No|Verso=26|UniqueTokenId=OldItalian_Dante_Inferno-1157_37
 38	,	,	PUNCT	_	_	41	punct	41:punct	UniqueTokenId=OldItalian_Dante_Inferno-1157_38
@@ -2161,7 +2161,7 @@
 # text = Come un poco di raggio si fu messo nel doloroso carcere, e io scorsi per quattro visi il mio aspetto stesso, ambo le man per lo dolor mi morsi; ed ei, pensando ch'io 'l fessi per voglia di manicar, di sùbito levorsi e disser: “Padre, assai ci fia men doglia se tu mangi di noi: tu ne vestisti queste misere carni, e tu le spoglia”.
 1	Come	come	SCONJ	csst	_	8	mark	8:mark	Canto=33|Verso=55|UniqueTokenId=OldItalian_Dante_Inferno-1166_1
 2	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	Canto=33|Verso=55|UniqueTokenId=OldItalian_Dante_Inferno-1166_2
-3	poco	poco	ADV	_	_	8	nsubj	8:nsubj	Canto=33|Verso=55|UniqueTokenId=OldItalian_Dante_Inferno-1166_3
+3	poco	poco	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	8:nsubj	Canto=33|Verso=55|UniqueTokenId=OldItalian_Dante_Inferno-1166_3
 4	di	di	ADP	epsk8	_	5	case	5:case	Canto=33|Verso=55|UniqueTokenId=OldItalian_Dante_Inferno-1166_4
 5	raggio	raggio	NOUN	sm2ms	Gender=Masc|Number=Sing	3	nmod	3:nmod	Canto=33|Verso=55|UniqueTokenId=OldItalian_Dante_Inferno-1166_5
 6	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	8:expl:pv	Canto=33|Verso=55|UniqueTokenId=OldItalian_Dante_Inferno-1166_6
@@ -2220,7 +2220,7 @@
 57	assai	assai	ADV	b	_	61	advmod	61:advmod	Canto=33|Verso=61|UniqueTokenId=OldItalian_Dante_Inferno-1166_57
 58	ci	ci	PRON	pp1pxda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	61	iobj	61:iobj	Canto=33|Verso=61|UniqueTokenId=OldItalian_Dante_Inferno-1166_58
 59	fia	essere	AUX	vi4ifs3	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	61	cop	61:cop	Canto=33|Verso=61|UniqueTokenId=OldItalian_Dante_Inferno-1166_59
-60	men	meno	DET	a	_	61	det	61:det	Canto=33|Verso=61|UniqueTokenId=OldItalian_Dante_Inferno-1166_60
+60	men	meno	ADJ	a	_	61	amod	61:amod	Canto=33|Verso=61|UniqueTokenId=OldItalian_Dante_Inferno-1166_60
 61	doglia	doglia	NOUN	sf1fs	Gender=Fem|Number=Sing	52	ccomp:reported	52:ccomp:reported	Canto=33|Verso=61|UniqueTokenId=OldItalian_Dante_Inferno-1166_61
 62	se	se	SCONJ	cssv	_	64	mark	64:mark	Canto=33|Verso=62|UniqueTokenId=OldItalian_Dante_Inferno-1166_62
 63	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	64	nsubj	64:nsubj	Canto=33|Verso=62|UniqueTokenId=OldItalian_Dante_Inferno-1166_63
@@ -2327,9 +2327,9 @@
 13	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	14:det	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Inferno-1169_13
 14	tre	tre	NUM	an	NumType=Card	10	obj	10:obj	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Inferno-1169_14
 15	ad	a	ADP	epskb	_	16	case	16:case	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Inferno-1169_15
-16	uno	uno	DET	an1ms	Gender=Masc|Number=Sing	10	obl	10:obl	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Inferno-1169_16
+16	uno	uno	DET	an1ms	Gender=Masc|Number=Sing|PronType=Art	10	obl	10:obl	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Inferno-1169_16
 17	ad	a	ADP	epskb	_	18	case	18:case	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Inferno-1169_17
-18	uno	uno	DET	an1ms	Gender=Masc|Number=Sing	16	flat:redup	16:flat:redup	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Inferno-1169_18
+18	uno	uno	DET	an1ms	Gender=Masc|Number=Sing|PronType=Art	16	flat:redup	16:flat:redup	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Inferno-1169_18
 19	tra	tra	ADP	epsktd	_	22	case	22:case	Canto=33|Verso=72|UniqueTokenId=OldItalian_Dante_Inferno-1169_19
 20	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	22:det	Canto=33|Verso=72|UniqueTokenId=OldItalian_Dante_Inferno-1169_20
 21	quinto	quinto	ADJ	an1ms	Gender=Masc|Number=Sing|NumType=Ord	22	amod	22:amod	Canto=33|Verso=72|UniqueTokenId=OldItalian_Dante_Inferno-1169_21
@@ -2495,7 +2495,7 @@
 20	figliuoi	figliuolo	NOUN	sm2mp	Gender=Masc|Number=Plur	21	obj	21:obj	Canto=33|Verso=87|UniqueTokenId=OldItalian_Dante_Inferno-1173_20
 21	porre	porre	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	0:root	Canto=33|Verso=87|UniqueTokenId=OldItalian_Dante_Inferno-1173_21
 22	a	a	ADP	epskml	_	24	case	24:case	Canto=33|Verso=87|UniqueTokenId=OldItalian_Dante_Inferno-1173_22
-23	tal	tale	DET	a2fs	Number=Sing	24	det	24:det	Canto=33|Verso=87|UniqueTokenId=OldItalian_Dante_Inferno-1173_23
+23	tal	tale	DET	a2fs	Number=Sing|PronType=Dem	24	det	24:det	Canto=33|Verso=87|UniqueTokenId=OldItalian_Dante_Inferno-1173_23
 24	croce	croce	NOUN	sf3fs	Gender=Fem|Number=Sing	21	obl:lmod	21:obl:lmod	Canto=33|SpaceAfter=No|Verso=87|UniqueTokenId=OldItalian_Dante_Inferno-1173_24
 25	.	.	PUNCT	_	_	21	punct	21:punct	UniqueTokenId=OldItalian_Dante_Inferno-1173_25
 
@@ -2744,7 +2744,7 @@
 45	m'	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	46	iobj	46:iobj	Canto=33|SpaceAfter=No|Verso=113|UniqueTokenId=OldItalian_Dante_Inferno-1179_45
 46	impregna	impregnare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	acl:relcl	41:acl:relcl	Canto=33|SpaceAfter=No|Verso=113|UniqueTokenId=OldItalian_Dante_Inferno-1179_46
 47	,	,	PUNCT	_	_	49	punct	49:punct	UniqueTokenId=OldItalian_Dante_Inferno-1179_47
-48	un	uno	DET	_	Gender=Masc|Number=Sing	49	det	49:det	Canto=33|Verso=114|UniqueTokenId=OldItalian_Dante_Inferno-1179_48
+48	un	uno	DET	_	Gender=Masc|Number=Sing|PronType=Art	49	det	49:det	Canto=33|Verso=114|UniqueTokenId=OldItalian_Dante_Inferno-1179_48
 49	poco	poco	ADV	_	_	46	advmod	46:advmod	Canto=33|SpaceAfter=No|Verso=114|UniqueTokenId=OldItalian_Dante_Inferno-1179_49
 50	,	,	PUNCT	_	_	56	punct	56:punct	UniqueTokenId=OldItalian_Dante_Inferno-1179_50
 51	pria	prima	ADV	_	_	56	advmod:tmod	56:advmod:tmod	Canto=33|Verso=114|UniqueTokenId=OldItalian_Dante_Inferno-1179_51
@@ -3002,7 +3002,7 @@
 18	,	,	PUNCT	_	_	24	punct	24:punct	UniqueTokenId=OldItalian_Dante_Inferno-1187_18
 19	e	e	CCONJ	cscc	_	24	cc	24:cc	Canto=33|Verso=137|UniqueTokenId=OldItalian_Dante_Inferno-1187_19
 20	son	essere	AUX	vi4ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	24:aux	Canto=33|Verso=137|UniqueTokenId=OldItalian_Dante_Inferno-1187_20
-21	più	più	DET	a	_	22	det	22:det	Canto=33|Verso=137|UniqueTokenId=OldItalian_Dante_Inferno-1187_21
+21	più	più	DET	a	PronType=Ind	22	det	22:det	Canto=33|Verso=137|UniqueTokenId=OldItalian_Dante_Inferno-1187_21
 22	anni	anno	NOUN	sm2mp	Gender=Masc|Number=Plur	24	obj	24:obj	Canto=33|Verso=137|UniqueTokenId=OldItalian_Dante_Inferno-1187_22
 23	poscia	poscia	ADV	_	_	29	advmod:tmod	29:advmod:tmod	Canto=33|Verso=138|UniqueTokenId=OldItalian_Dante_Inferno-1187_23
 24	passati	passare	VERB	vi1ibp3	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	15	conj	15:conj	Canto=33|Verso=138|UniqueTokenId=OldItalian_Dante_Inferno-1187_24
@@ -3270,7 +3270,7 @@
 26	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	27	iobj	27:iobj	Canto=34|Verso=7|UniqueTokenId=OldItalian_Dante_Inferno-1195_26
 27	parve	parere	VERB	vi*2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Canto=34|Verso=7|UniqueTokenId=OldItalian_Dante_Inferno-1195_27
 28	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	30:det	Canto=34|Verso=7|UniqueTokenId=OldItalian_Dante_Inferno-1195_28
-29	tal	tale	DET	a2ms	Number=Sing	30	det	30:det	Canto=34|Verso=7|UniqueTokenId=OldItalian_Dante_Inferno-1195_29
+29	tal	tale	DET	a2ms	Number=Sing|PronType=Dem	30	det	30:det	Canto=34|Verso=7|UniqueTokenId=OldItalian_Dante_Inferno-1195_29
 30	dificio	edificio	NOUN	sm2ms	Gender=Masc|Number=Sing	25	obj	25:obj	Canto=34|Verso=7|UniqueTokenId=OldItalian_Dante_Inferno-1195_30
 31	allotta	allotta	ADV	b	_	27	advmod:tmod	27:advmod:tmod	Canto=34|SpaceAfter=No|Verso=7|UniqueTokenId=OldItalian_Dante_Inferno-1195_31
 32	;	;	PUNCT	_	_	38	punct	38:punct	UniqueTokenId=OldItalian_Dante_Inferno-1195_32
@@ -3414,7 +3414,7 @@
 44	ecco	ecco	ADV	b	_	46	advmod	46:advmod	Canto=34|Verso=20|UniqueTokenId=OldItalian_Dante_Inferno-1198_44
 45	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	46:det	Canto=34|Verso=20|UniqueTokenId=OldItalian_Dante_Inferno-1198_45
 46	loco	luogo	NOUN	sm2ms	Gender=Masc|Number=Sing	37	conj	37:conj	Canto=34|Verso=20|UniqueTokenId=OldItalian_Dante_Inferno-1198_46
-47	ove	ove	PRON	p	_	48	obl:lmod	48:obl:lmod	Canto=34|Verso=21|UniqueTokenId=OldItalian_Dante_Inferno-1198_47
+47	ove	ove	PRON	p	PronType=Rel	48	obl:lmod	48:obl:lmod	Canto=34|Verso=21|UniqueTokenId=OldItalian_Dante_Inferno-1198_47
 48	convien	convenire	VERB	vi*3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	acl:relcl	46:acl:relcl	Canto=34|Verso=21|UniqueTokenId=OldItalian_Dante_Inferno-1198_48
 49	che	che	SCONJ	csss	_	53	mark	53:mark	Canto=34|Verso=21|UniqueTokenId=OldItalian_Dante_Inferno-1198_49
 50	di	di	ADP	epskw	_	51	case	51:case	Canto=34|Verso=21|UniqueTokenId=OldItalian_Dante_Inferno-1198_50
@@ -3452,7 +3452,7 @@
 23	ogne	ogni	DET	ai2ms	Number=Sing|PronType=Tot	24	det	24:det	Canto=34|Verso=24|UniqueTokenId=OldItalian_Dante_Inferno-1199_23
 24	parlar	parlare	VERB	vi1fpsm3ms	Tense=Pres|VerbForm=Inf	26	nsubj	26:nsubj	Canto=34|Verso=24|UniqueTokenId=OldItalian_Dante_Inferno-1199_24
 25	sarebbe	essere	AUX	vi4dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	26	cop	26:cop	Canto=34|Verso=24|UniqueTokenId=OldItalian_Dante_Inferno-1199_25
-26	poco	poco	DET	a1ms	Gender=Masc|Number=Sing	19	advcl	19:advcl	Canto=34|SpaceAfter=No|Verso=24|UniqueTokenId=OldItalian_Dante_Inferno-1199_26
+26	poco	poco	DET	a1ms	Gender=Masc|Number=Sing|PronType=Ind	19	advcl	19:advcl	Canto=34|SpaceAfter=No|Verso=24|UniqueTokenId=OldItalian_Dante_Inferno-1199_26
 27	.	.	PUNCT	_	_	11	punct	11:punct	UniqueTokenId=OldItalian_Dante_Inferno-1199_27
 
 # sent_id = OldItalian_Dante_Inferno-1200
@@ -3646,7 +3646,7 @@
 48	a	a	ADP	_	_	49	mark	49:mark	Canto=34|Verso=44|UniqueTokenId=OldItalian_Dante_Inferno-1204_48
 49	vedere	vedere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	51	advcl	51:advcl	Canto=34|Verso=44|UniqueTokenId=OldItalian_Dante_Inferno-1204_49
 50	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	51	cop	51:cop	Canto=34|Verso=44|UniqueTokenId=OldItalian_Dante_Inferno-1204_50
-51	tal	tale	DET	a2ns	_	3	parataxis	3:parataxis	Canto=34|SpaceAfter=No|Verso=44|UniqueTokenId=OldItalian_Dante_Inferno-1204_51
+51	tal	tale	DET	a2ns	PronType=Dem	3	parataxis	3:parataxis	Canto=34|SpaceAfter=No|Verso=44|UniqueTokenId=OldItalian_Dante_Inferno-1204_51
 52	,	,	PUNCT	_	_	54	punct	54:punct	UniqueTokenId=OldItalian_Dante_Inferno-1204_52
 53	quali	quale	PRON	pr	Number=Plur|PronType=Rel	54	nsubj	54:nsubj	Canto=34|Verso=44|UniqueTokenId=OldItalian_Dante_Inferno-1204_53
 54	vegnon	venire	VERB	vi3ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	advcl:cmp	51:advcl:cmp	Canto=34|Verso=45|UniqueTokenId=OldItalian_Dante_Inferno-1204_54
@@ -4213,7 +4213,7 @@
 24	mi	mi	PRON	pp1sxac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	23	obj	23:obj	Canto=34|Verso=102|UniqueTokenId=OldItalian_Dante_Inferno-1220_24
 25	d'	da	ADP	epska	_	26	case	26:case	Canto=34|SpaceAfter=No|Verso=102|UniqueTokenId=OldItalian_Dante_Inferno-1220_25
 26	erro	errore	NOUN	sm3ms	Gender=Masc|Number=Sing	23	obl	23:obl	Canto=34|Verso=102|UniqueTokenId=OldItalian_Dante_Inferno-1220_26
-27	un	uno	DET	_	Gender=Masc|Number=Sing	28	det	28:det	Canto=34|Verso=102|UniqueTokenId=OldItalian_Dante_Inferno-1220_27
+27	un	uno	DET	_	Gender=Masc|Number=Sing|PronType=Art	28	det	28:det	Canto=34|Verso=102|UniqueTokenId=OldItalian_Dante_Inferno-1220_27
 28	poco	poco	ADV	_	_	30	advmod	30:advmod	Canto=34|Verso=102|UniqueTokenId=OldItalian_Dante_Inferno-1220_28
 29	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	30	iobj	30:iobj	Canto=34|Verso=102|UniqueTokenId=OldItalian_Dante_Inferno-1220_29
 30	favella	favellare	VERB	vi1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	ccomp:reported	15:ccomp:reported	Canto=34|SpaceAfter=No|Verso=102|UniqueTokenId=OldItalian_Dante_Inferno-1220_30
@@ -4236,7 +4236,7 @@
 47	,	,	PUNCT	_	_	46	punct	46:punct	UniqueTokenId=OldItalian_Dante_Inferno-1220_47
 48	in	in	ADP	epskt	_	51	case	51:case	Canto=34|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1220_48
 49	sì	così	ADV	b	_	50	advmod	50:advmod	Canto=34|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1220_49
-50	poc'	poco	DET	a1fs	Gender=Fem|Number=Sing	51	amod	51:amod	Canto=34|SpaceAfter=No|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1220_50
+50	poc'	poco	DET	a1fs	Gender=Fem|Number=Sing|PronType=Ind	51	amod	51:amod	Canto=34|SpaceAfter=No|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1220_50
 51	ora	ora	NOUN	sf1fs	Gender=Fem|Number=Sing	58	obl:tmod	58:obl:tmod	Canto=34|SpaceAfter=No|Verso=104|UniqueTokenId=OldItalian_Dante_Inferno-1220_51
 52	,	,	PUNCT	_	_	51	punct	51:punct	UniqueTokenId=OldItalian_Dante_Inferno-1220_52
 53	da	da	ADP	epskt	_	54	case	54:case	Canto=34|Verso=105|UniqueTokenId=OldItalian_Dante_Inferno-1220_53
@@ -4490,7 +4490,7 @@
 12	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	13	expl:pv	13:expl:pv	Canto=34|Verso=128|UniqueTokenId=OldItalian_Dante_Inferno-1226_12
 13	distende	distendere	VERB	vi+2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl:cmp	8:advcl:cmp	Canto=34|SpaceAfter=No|Verso=128|UniqueTokenId=OldItalian_Dante_Inferno-1226_13
 14	,	,	PUNCT	_	_	18	punct	16.1:punct	UniqueTokenId=OldItalian_Dante_Inferno-1226_14
-15	che	che	PRON	pr	PronType=Rel	16	orphan	16.1:nsubj	Canto=34|Verso=129|UniqueTokenId=OldItalian_Dante_Inferno-1226_15
+15	che	che	PRON	pr	PronType=Rel	18	orphan	16.1:nsubj	Canto=34|Verso=129|UniqueTokenId=OldItalian_Dante_Inferno-1226_15
 16	non	non	ADV	b	PronType=Neg	18	orphan	16.1:advmod:neg	Canto=34|Verso=129|UniqueTokenId=OldItalian_Dante_Inferno-1226_16
 16.1	noto	_	_	_	_	_	_	1:acl:relcl	Antec=Yes|AntecPosit=Canto34-1226_23
 17	per	per	ADP	epskw	_	18	case	18:case	Canto=34|Verso=129|UniqueTokenId=OldItalian_Dante_Inferno-1226_17
@@ -4913,7 +4913,7 @@
 10	si	si	PRON	pf3ypa	Person=3|PronType=Prs|Reflex=Yes	11	expl:impers	11:expl:impers	Canto=30|Clitic=Yes|Verso=143|UniqueTokenId=OldItalian_Dante_Purgatorio-1067_10
 11	passasse	passare	VERB	vtp1cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Pass	6	advcl	6:advcl	Canto=30|Verso=143|UniqueTokenId=OldItalian_Dante_Purgatorio-1067_11
 12	e	e	CCONJ	cscc	_	16	cc	16:cc	Canto=30|Verso=143|UniqueTokenId=OldItalian_Dante_Purgatorio-1067_12
-13	tal	tale	DET	a2fs	Gender=Fem|Number=Sing	14	det	14:det	Canto=30|Verso=143|UniqueTokenId=OldItalian_Dante_Purgatorio-1067_13
+13	tal	tale	DET	a2fs	Gender=Fem|Number=Sing|PronType=Dem	14	det	14:det	Canto=30|Verso=143|UniqueTokenId=OldItalian_Dante_Purgatorio-1067_13
 14	vivanda	vivanda	NOUN	sf1fs	Gender=Fem|Number=Sing	16	nsubj:pass	16:nsubj:pass	Canto=30|Verso=143|UniqueTokenId=OldItalian_Dante_Purgatorio-1067_14
 15	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	aux:pass	16:aux:pass	Canto=30|Verso=144|UniqueTokenId=OldItalian_Dante_Purgatorio-1067_15
 16	gustata	gustare	VERB	vtp1cis3	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	11	conj	11:conj	Canto=30|Verso=144|UniqueTokenId=OldItalian_Dante_Purgatorio-1067_16
@@ -5057,7 +5057,7 @@
 6	mi	mi	PRON	pp1syac	Person=1|Poss=Yes|PronType=Prs	7	iobj	7:iobj	Canto=31|Clitic=Yes|Verso=14|UniqueTokenId=OldItalian_Dante_Purgatorio-1071_6
 7	pinsero	pingere	VERB	vta2irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Canto=31|Verso=14|UniqueTokenId=OldItalian_Dante_Purgatorio-1071_7
 8	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	Canto=31|Verso=14|UniqueTokenId=OldItalian_Dante_Purgatorio-1071_8
-9	tal	tale	DET	a2ms	Gender=Masc|Number=Sing	11	det	11:det	Canto=31|Verso=14|UniqueTokenId=OldItalian_Dante_Purgatorio-1071_9
+9	tal	tale	DET	a2ms	Gender=Masc|Number=Sing|PronType=Dem	11	det	11:det	Canto=31|Verso=14|UniqueTokenId=OldItalian_Dante_Purgatorio-1071_9
 10	«	«	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Purgatorio-1071_10
 11	sì	così	NOUN	sm	_	7	obj	7:obj	Canto=31|SpaceAfter=No|Verso=14|UniqueTokenId=OldItalian_Dante_Purgatorio-1071_11
 12	»	»	PUNCT	_	_	11	punct	11:punct	_
@@ -5098,7 +5098,7 @@
 17	,	,	PUNCT	_	_	26	punct	26:punct	_
 18	e	e	CCONJ	cscc	_	26	cc	26:cc	Canto=31|Verso=18|UniqueTokenId=OldItalian_Dante_Purgatorio-1072_18
 19	con	con	ADP	epskm	_	21	case	21:case	Canto=31|Verso=18|UniqueTokenId=OldItalian_Dante_Purgatorio-1072_19
-20	men	meno	DET	a	_	21	det	21:det	Canto=31|Verso=18|UniqueTokenId=OldItalian_Dante_Purgatorio-1072_20
+20	men	meno	ADJ	a	_	21	amod	21:amod	Canto=31|Verso=18|UniqueTokenId=OldItalian_Dante_Purgatorio-1072_20
 21	foga	foga	NOUN	sf1fs	Gender=Fem|Number=Sing	26	obl	26:obl	Canto=31|Verso=18|UniqueTokenId=OldItalian_Dante_Purgatorio-1072_21
 22	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	23:det	Canto=31|Verso=18|UniqueTokenId=OldItalian_Dante_Purgatorio-1072_22
 23	asta	asta	NOUN	sf1fs	Gender=Fem|Number=Sing	26	nsubj	26:nsubj	Canto=31|Verso=18|UniqueTokenId=OldItalian_Dante_Purgatorio-1072_23
@@ -5295,7 +5295,7 @@
 20	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	19:det:poss	Canto=31|SpaceAfter=No|Verso=39|UniqueTokenId=OldItalian_Dante_Purgatorio-1077_20
 21	:	:	PUNCT	_	_	25	punct	25:punct	_
 22	da	da	ADP	epski	_	24	case	24:case	Canto=31|Verso=39|UniqueTokenId=OldItalian_Dante_Purgatorio-1077_22
-23	tal	tale	DET	a2ms	Gender=Masc|Number=Sing	24	det	24:det	Canto=31|Verso=39|UniqueTokenId=OldItalian_Dante_Purgatorio-1077_23
+23	tal	tale	DET	a2ms	Gender=Masc|Number=Sing|PronType=Dem	24	det	24:det	Canto=31|Verso=39|UniqueTokenId=OldItalian_Dante_Purgatorio-1077_23
 24	giudice	giudice	NOUN	sm3ms	Gender=Masc|Number=Sing	25	obl	25:obl	Canto=31|Verso=39|UniqueTokenId=OldItalian_Dante_Purgatorio-1077_24
 25-26	sassi	_	_	_	_	_	_	_	Canto=31|SpaceAfter=No|Verso=39|UniqueTokenId=OldItalian_Dante_Purgatorio-1077_25-26
 25	sapere	sapere	VERB	vtp2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	parataxis	17:parataxis	Canto=31|Verso=39|UniqueTokenId=OldItalian_Dante_Purgatorio-1077_25
@@ -5394,7 +5394,7 @@
 7	arte	arte	NOUN	sf3fs	Gender=Fem|Number=Sing	5	conj	5:conj	Canto=31|Verso=49|UniqueTokenId=OldItalian_Dante_Purgatorio-1080_7
 8	piacer	piacere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	4	obj	4:obj	Canto=31|SpaceAfter=No|Verso=50|UniqueTokenId=OldItalian_Dante_Purgatorio-1080_8
 9	,	,	PUNCT	_	_	13	punct	13:punct	_
-10	quanto	quanto	PRON	pr1ms	Gender=Masc|Number=Sing|PronType=Rel	13	obl	13:obl	Canto=31|Verso=50|UniqueTokenId=OldItalian_Dante_Purgatorio-1080_10
+10	quanto	quanto	ADP	pr1ms	_	13	case	13:case	Canto=31|Verso=50|UniqueTokenId=OldItalian_Dante_Purgatorio-1080_10
 11	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	13	det	13:det	Canto=31|Verso=50|UniqueTokenId=OldItalian_Dante_Purgatorio-1080_11
 12	belle	bello	ADJ	a1fp	Gender=Fem|Number=Plur	13	amod	13:amod	Canto=31|Verso=50|UniqueTokenId=OldItalian_Dante_Purgatorio-1080_12
 13	membra	membro	NOUN	sm2fp	Gender=Fem|Number=Plur	4	obl	4:obl	Canto=31|Verso=50|UniqueTokenId=OldItalian_Dante_Purgatorio-1080_13
@@ -5479,7 +5479,7 @@
 9	,	,	PUNCT	_	_	11	punct	11:punct	_
 10	ad	a	ADP	epsm	_	11	mark	11:mark	Canto=31|Verso=59|UniqueTokenId=OldItalian_Dante_Purgatorio-1082_10
 11	aspettar	aspettare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	4:advcl	Canto=31|Verso=59|UniqueTokenId=OldItalian_Dante_Purgatorio-1082_11
-12	più	più	DET	a	_	13	det	13:det	Canto=31|Verso=59|UniqueTokenId=OldItalian_Dante_Purgatorio-1082_12
+12	più	più	DET	a	PronType=Ind	13	det	13:det	Canto=31|Verso=59|UniqueTokenId=OldItalian_Dante_Purgatorio-1082_12
 13	colpo	colpo	NOUN	sm2ms	Gender=Masc|Number=Sing	11	obj	11:obj	Canto=31|SpaceAfter=No|Verso=59|UniqueTokenId=OldItalian_Dante_Purgatorio-1082_13
 14	,	,	PUNCT	_	_	16	punct	16:punct	_
 15	o	o	CCONJ	cscr	_	16	cc	16:cc	Canto=31|Verso=59|UniqueTokenId=OldItalian_Dante_Purgatorio-1082_15
@@ -5575,7 +5575,7 @@
 # sent_id = OldItalian_Dante_Purgatorio-1085
 # text = Con men di resistenza si dibarba robusto cerro, o vero al nostral vento o vero a quel de la terra di Iarba, ch' io non levai al suo comando il mento; e quando per la barba il viso chiese, ben conobbi il velen de l' argomento.
 1	Con	con	ADP	epskm	_	2	case	2:case	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_1
-2	men	meno	DET	ac+	_	6	obl	6:obl	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_2
+2	men	meno	NOUN	ac+	_	6	obl	6:obl	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_2
 3	di	di	ADP	epsk8	_	4	case	4:case	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_3
 4	resistenza	resistenza	NOUN	sf1fs	Gender=Fem|Number=Sing	2	nmod	2:nmod	Canto=31|Verso=70|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_4
 5	si	si	PRON	pf3ypa	Person=3|PronType=Prs|Reflex=Yes	6	expl:impers	6:expl:impers	Canto=31|Clitic=Yes|Verso=70|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_5
@@ -5583,14 +5583,14 @@
 7	robusto	robusto	ADJ	a1ms	Gender=Masc|Number=Sing	8	amod	8:amod	Canto=31|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_7
 8	cerro	cerro	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj	6:nsubj	Canto=31|SpaceAfter=No|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_8
 9	,	,	PUNCT	_	_	15	punct	15:punct	_
-10	o	o	CCONJ	cscr	_	15	cc	15:cc	Canto=31|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_10
+10	o	o	CCONJ	cscr	ExtPos=CCONJ	15	cc	15:cc	Canto=31|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_10
 11	vero	ovvero	CCONJ	cccd	_	10	fixed	10:fixed	Canto=31|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_11
 12-13	al	_	_	_	_	_	_	_	Canto=31|Comment=a-l|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_12-13
 12	a	a	ADP	_	_	15	case	15:case	Canto=31|Comment=a-l|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_12
 13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	15:det	Canto=31|Comment=a-l|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_13
 14	nostral	nostrale	ADJ	a2ms	Gender=Masc|Number=Sing	15	amod	15:amod	Canto=31|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_14
 15	vento	vento	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl	6:obl	Canto=31|Verso=71|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_15
-16	o	o	CCONJ	cscr	_	19	cc	19:cc	Canto=31|Verso=72|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_16
+16	o	o	CCONJ	cscr	ExtPos=CCONJ	19	cc	19:cc	Canto=31|Verso=72|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_16
 17	vero	ovvero	CCONJ	cccd	_	16	fixed	16:fixed	Canto=31|Verso=72|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_17
 18	a	a	ADP	epskr	_	19	case	19:case	Canto=31|Verso=72|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_18
 19	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	15	conj	15:conj	Canto=31|Verso=72|UniqueTokenId=OldItalian_Dante_Purgatorio-1085_19
@@ -5672,7 +5672,7 @@
 37	ch'	che	PRON	pr	PronType=Rel	41	nsubj	41:nsubj	Canto=31|Verso=81|UniqueTokenId=OldItalian_Dante_Purgatorio-1086_37
 38	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	cop	41:cop	Canto=31|Verso=81|UniqueTokenId=OldItalian_Dante_Purgatorio-1086_38
 39	sola	solo	ADJ	a1fs	Gender=Fem|Number=Sing	41	amod	41:amod	Canto=31|Verso=81|UniqueTokenId=OldItalian_Dante_Purgatorio-1086_39
-40	una	uno	DET	an1fs	Gender=Fem|Number=Sing	41	det	41:det	Canto=31|Verso=81|UniqueTokenId=OldItalian_Dante_Purgatorio-1086_40
+40	una	uno	DET	an1fs	Gender=Fem|Number=Sing|PronType=Art	41	det	41:det	Canto=31|Verso=81|UniqueTokenId=OldItalian_Dante_Purgatorio-1086_40
 41	persona	persona	NOUN	sf1fs	Gender=Fem|Number=Sing	36	acl:relcl	36:acl:relcl	Canto=31|Verso=81|UniqueTokenId=OldItalian_Dante_Purgatorio-1086_41
 42	in	in	ADP	epskb	_	44	case	44:case	Canto=31|Verso=81|UniqueTokenId=OldItalian_Dante_Purgatorio-1086_42
 43	due	due	NUM	an	NumType=Card	44	nummod	44:nummod	Canto=31|Verso=81|UniqueTokenId=OldItalian_Dante_Purgatorio-1086_43
@@ -6096,12 +6096,13 @@
 
 # sent_id = OldItalian_Dante_Purgatorio-1100
 # text = Come in lo specchio il sol, non altrimenti la doppia fiera dentro vi raggiava, or con altri, or con altri reggimenti.
-1	Come	come	ADV	b	_	6	advmod	6:advmod	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_1
+1	Come	come	ADV	b	_	6	mark	4.1:mark	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_1
 2	in	in	ADP	epsksl	_	4	case	4:case	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_2
 3	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_3
-4	specchio	specchio	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl:lmod	6:obl:lmod	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_4
+4	specchio	specchio	NOUN	sm2ms	Gender=Masc|Number=Sing	6	orphan	4.1:obl:lmod	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_4
+4.1	raggiava	_	_	_	_	_	_	15:advcl:cmp	Antec=Yes|AntecPosit=Canto31-1100_15
 5	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_5
-6	sol	sole	NOUN	sm3ms	Gender=Masc|Number=Sing	15	obl	15:obl	Canto=31|SpaceAfter=No|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_6
+6	sol	sole	NOUN	sm3ms	Gender=Masc|Number=Sing	15	advcl:cmp	4.1:nsubj	Canto=31|SpaceAfter=No|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_6
 7	,	,	PUNCT	_	_	6	punct	6:punct	_
 8	non	non	ADV	b	PronType=Neg	9	advmod:neg	9:advmod:neg	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_8
 9	altrimenti	altrimenti	ADV	b	_	15	advmod	15:advmod	Canto=31|Verso=121|UniqueTokenId=OldItalian_Dante_Purgatorio-1100_9
@@ -6467,7 +6468,7 @@
 22	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	23:det	Canto=32|Comment=a-l|Verso=14|UniqueTokenId=OldItalian_Dante_Purgatorio-1108_22
 23	molto	molto	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	20	nmod	20:nmod	Canto=32|Verso=14|UniqueTokenId=OldItalian_Dante_Purgatorio-1108_23
 24	sensibile	sensibile	ADJ	a2ms	Gender=Masc|Number=Sing	23	amod	23:amod	Canto=32|Verso=15|UniqueTokenId=OldItalian_Dante_Purgatorio-1108_24
-25	onde	onde	PRON	p	_	29	obl:lmod	29:obl:lmod	Canto=32|Verso=15|UniqueTokenId=OldItalian_Dante_Purgatorio-1108_25
+25	onde	onde	PRON	p	PronType=Rel	29	obl:lmod	29:obl:lmod	Canto=32|Verso=15|UniqueTokenId=OldItalian_Dante_Purgatorio-1108_25
 26	a	a	ADP	epskm	_	27	case	27:case	Canto=32|Verso=15|UniqueTokenId=OldItalian_Dante_Purgatorio-1108_26
 27	forza	forza	NOUN	sf1fs	Gender=Fem|Number=Sing	29	obl	29:obl	Canto=32|Verso=15|UniqueTokenId=OldItalian_Dante_Purgatorio-1108_27
 28	mi	mi	PRON	pf1sypr	Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	29	obj	29:obj	Canto=32|Clitic=Yes|Verso=15|UniqueTokenId=OldItalian_Dante_Purgatorio-1108_28
@@ -7288,7 +7289,7 @@
 16	di	di	ADP	epskg	_	18	case	18:case	Canto=32|Verso=102|UniqueTokenId=OldItalian_Dante_Purgatorio-1130_16
 17	quella	quello	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	18	det	18:det	Canto=32|Verso=102|UniqueTokenId=OldItalian_Dante_Purgatorio-1130_17
 18	Roma	Roma	PROPN	np	_	15	nmod	15:nmod	Canto=32|Verso=102|UniqueTokenId=OldItalian_Dante_Purgatorio-1130_18
-19	onde	onde	PRON	p	_	22	obl:lmod	22:obl:lmod	Canto=32|Verso=102|UniqueTokenId=OldItalian_Dante_Purgatorio-1130_19
+19	onde	onde	PRON	p	PronType=Rel	22	obl:lmod	22:obl:lmod	Canto=32|Verso=102|UniqueTokenId=OldItalian_Dante_Purgatorio-1130_19
 20	Cristo	Cristo	PROPN	np	_	22	nsubj	22:nsubj	Canto=32|Verso=102|UniqueTokenId=OldItalian_Dante_Purgatorio-1130_20
 21	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	22:cop	Canto=32|Verso=102|UniqueTokenId=OldItalian_Dante_Purgatorio-1130_21
 22	romano	romano	ADJ	a1msxc	Gender=Masc|Number=Sing	18	acl:relcl	18:acl:relcl	Canto=32|SpaceAfter=No|Verso=102|UniqueTokenId=OldItalian_Dante_Purgatorio-1130_22
@@ -7536,7 +7537,7 @@
 33	si	si	PRON	pf3yle	Person=3|PronType=Prs|Reflex=Yes	34	expl:pv	34:expl:pv	Canto=32|Clitic=Yes|Verso=127|UniqueTokenId=OldItalian_Dante_Purgatorio-1135_33
 34	rammarca	rammarcare	VERB	v+i1ips3	_	31	acl:relcl	31:acl:relcl	Canto=32|SpaceAfter=No|Verso=127|UniqueTokenId=OldItalian_Dante_Purgatorio-1135_34
 35	,	,	PUNCT	_	_	38	punct	38:punct	_
-36	tal	tale	DET	a2ns	_	37	det	37:det	Canto=32|Verso=128|UniqueTokenId=OldItalian_Dante_Purgatorio-1135_36
+36	tal	tale	DET	a2ns	PronType=Dem	37	det	37:det	Canto=32|Verso=128|UniqueTokenId=OldItalian_Dante_Purgatorio-1135_36
 37	voce	voce	NOUN	sf3fs	Gender=Fem|Number=Sing	38	nsubj	38:nsubj	Canto=32|Verso=128|UniqueTokenId=OldItalian_Dante_Purgatorio-1135_37
 38	uscì	uscire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	parataxis	11:parataxis	Canto=32|Verso=128|UniqueTokenId=OldItalian_Dante_Purgatorio-1135_38
 39-40	del	_	_	_	_	_	_	_	Canto=32|Comment=de-l|Verso=128|UniqueTokenId=OldItalian_Dante_Purgatorio-1135_39-40
@@ -7617,7 +7618,7 @@
 51-53	gissen	_	_	_	_	_	_	_	Canto=32|Verso=135|UniqueTokenId=OldItalian_Dante_Purgatorio-1136_51-53
 51	gire	gire	VERB	vi+3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	45	conj	45:conj	Canto=32|Verso=135|UniqueTokenId=OldItalian_Dante_Purgatorio-1136_51
 52	si	si	PRON	pf3xle	Person=3|PronType=Prs|Reflex=Yes	51	expl:pv	51:expl:pv	Canto=32|Clitic=Yes|Verso=135|UniqueTokenId=OldItalian_Dante_Purgatorio-1136_52
-53	ne	ne	PRON	bx	_	51	expl	51:expl	Canto=32|Clitic=Yes|Verso=135|UniqueTokenId=OldItalian_Dante_Purgatorio-1136_53
+53	ne	ne	PRON	bx	PronType=Prs	51	expl	51:expl	Canto=32|Clitic=Yes|Verso=135|UniqueTokenId=OldItalian_Dante_Purgatorio-1136_53
 54	vago	vago	ADV	_	_	51	advcl:pred	51:advcl:pred	Canto=32|Verso=135|UniqueTokenId=OldItalian_Dante_Purgatorio-1136_54
 55	vago	vago	ADV	_	_	54	flat:redup	54:flat:redup	Canto=32|SpaceAfter=No|Verso=135|UniqueTokenId=OldItalian_Dante_Purgatorio-1136_55
 56	.	.	PUNCT	_	_	2	punct	2:punct	_
@@ -7716,7 +7717,7 @@
 8	ma	ma	CCONJ	csca	_	14	cc	14:cc	Canto=32|Verso=146|UniqueTokenId=OldItalian_Dante_Purgatorio-1139_8
 9	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	10	det	10:det	Canto=32|Verso=146|UniqueTokenId=OldItalian_Dante_Purgatorio-1139_9
 10	quattro	quattro	NUM	an	NumType=Card	14	nsubj	14:nsubj	Canto=32|Verso=146|UniqueTokenId=OldItalian_Dante_Purgatorio-1139_10
-11	un	uno	DET	an1ms	Gender=Masc|Number=Sing	13	det	13:det	Canto=32|Verso=146|UniqueTokenId=OldItalian_Dante_Purgatorio-1139_11
+11	un	uno	DET	an1ms	Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	Canto=32|Verso=146|UniqueTokenId=OldItalian_Dante_Purgatorio-1139_11
 12	sol	solo	ADJ	a1ms	Gender=Masc|Number=Sing	13	amod	13:amod	Canto=32|Verso=146|UniqueTokenId=OldItalian_Dante_Purgatorio-1139_12
 13	corno	corno	NOUN	sm2ms	Gender=Masc|Number=Sing	14	obj	14:obj	Canto=32|Verso=146|UniqueTokenId=OldItalian_Dante_Purgatorio-1139_13
 14	avean	avere	VERB	vta5iip3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	Canto=32|Verso=146|UniqueTokenId=OldItalian_Dante_Purgatorio-1139_14
@@ -8563,7 +8564,7 @@
 40	che	che	SCONJ	csso	_	44	mark	44:mark	Canto=33|Verso=77|UniqueTokenId=OldItalian_Dante_Purgatorio-1158_40
 41	'l	il	PRON	pp3msyac	Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	obj	44:obj	Canto=33|Clitic=Yes|Verso=77|UniqueTokenId=OldItalian_Dante_Purgatorio-1158_41
 42	te	ti	PRON	pp2syda	Person=2|Poss=Yes|PronType=Prs	44	iobj	44:iobj	Canto=33|Clitic=Yes|Verso=77|UniqueTokenId=OldItalian_Dante_Purgatorio-1158_42
-43	ne	ne	PRON	by	_	44	obl:lmod	44:obl:lmod	Canto=33|Clitic=Yes|Verso=77|UniqueTokenId=OldItalian_Dante_Purgatorio-1158_43
+43	ne	ne	PRON	by	PronType=Prs	44	obl:lmod	44:obl:lmod	Canto=33|Clitic=Yes|Verso=77|UniqueTokenId=OldItalian_Dante_Purgatorio-1158_43
 44	porti	portare	VERB	vta+1cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	29	ccomp	29:ccomp	Canto=33|Verso=77|UniqueTokenId=OldItalian_Dante_Purgatorio-1158_44
 45	dentro	dentro	ADV	_	_	47	advmod:lmod	47:advmod:lmod	Canto=33|Verso=77|UniqueTokenId=OldItalian_Dante_Purgatorio-1158_45
 46	a	a	ADP	_	_	47	case	47:case	Canto=33|Verso=77|UniqueTokenId=OldItalian_Dante_Purgatorio-1158_46
@@ -8589,7 +8590,7 @@
 4	«	«	PUNCT	_	_	18	punct	18:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Purgatorio-1159_4
 5	Sì	sì	ADV	_	_	7	advmod	7.1:advmod	Canto=33|Verso=79|UniqueTokenId=OldItalian_Dante_Purgatorio-1159_5
 6	come	come	ADV	_	_	7	mark	7.1:mark	Canto=33|Verso=79|UniqueTokenId=OldItalian_Dante_Purgatorio-1159_6
-7	cera	cera	NOUN	sf1fs	Gender=Fem|Number=Sing	18	amod	7.1:nsubj:pass	Canto=33|Verso=79|UniqueTokenId=OldItalian_Dante_Purgatorio-1159_7
+7	cera	cera	NOUN	sf1fs	Gender=Fem|Number=Sing	18	advcl:cmp	7.1:nsubj:pass	Canto=33|Verso=79|UniqueTokenId=OldItalian_Dante_Purgatorio-1159_7
 7.1	segnata	_	_	_	_	_	_	18:advcl:cmp	Antec=Yes|AntecPosit=Canto33-1159_18-19|Form=Diff
 8	da	da	ADP	epske	_	9	case	9:case	Canto=33|Verso=79|UniqueTokenId=OldItalian_Dante_Purgatorio-1159_8
 9	suggello	suggello	NOUN	sm2ms	Gender=Masc|Number=Sing	7	orphan	7.1:obl:agent	Canto=33|SpaceAfter=No|Verso=79|UniqueTokenId=OldItalian_Dante_Purgatorio-1159_9
@@ -9566,7 +9567,7 @@
 6	foro	foro	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obl:lmod	3:obl:lmod	Canto=30|Verso=142|UniqueTokenId=OldItalian_Dante_Paradiso-926_6
 7	divino	divino	ADJ	a1ms	Gender=Masc|Number=Sing	6	amod	6:amod	Canto=30|Verso=142|UniqueTokenId=OldItalian_Dante_Paradiso-926_7
 8	allora	allora	ADV	b	_	3	advmod:tmod	3:advmod:tmod	Canto=30|Verso=143|UniqueTokenId=OldItalian_Dante_Paradiso-926_8
-9	tal	tale	PRON	p2ns	Person=2	3	nsubj	3:nsubj	Canto=30|SpaceAfter=No|Verso=143|UniqueTokenId=OldItalian_Dante_Paradiso-926_9
+9	tal	tale	PRON	p2ns	Person=2|PronType=Dem	3	nsubj	3:nsubj	Canto=30|SpaceAfter=No|Verso=143|UniqueTokenId=OldItalian_Dante_Paradiso-926_9
 10	,	,	PUNCT	_	_	16	punct	16:punct	UniqueTokenId=OldItalian_Dante_Paradiso-926_10
 11	che	che	PRON	pr	PronType=Rel	16	nsubj	16:nsubj	Canto=30|Verso=143|UniqueTokenId=OldItalian_Dante_Paradiso-926_11
 12	palese	palese	ADV	b	_	16	advcl:pred	16:advcl:pred	Canto=30|Verso=143|UniqueTokenId=OldItalian_Dante_Paradiso-926_12
@@ -9676,7 +9677,7 @@
 51	che	che	PRON	pr	PronType=Rel	53	nsubj	53:nsubj	Canto=31|Verso=7|UniqueTokenId=OldItalian_Dante_Paradiso-928_51
 52	s'	si	PRON	pf3ypr	Person=3|PronType=Prs|Reflex=Yes	53	expl:pv	53:expl:pv	Canto=31|Clitic=Yes|Verso=7|UniqueTokenId=OldItalian_Dante_Paradiso-928_52
 53	infiora	infiorare	VERB	vi+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	acl:relcl	48:acl:relcl	Canto=31|Verso=7|UniqueTokenId=OldItalian_Dante_Paradiso-928_53
-54	una	uno	DET	an1fs	Gender=Fem|Number=Sing	55	det	55:det	Canto=31|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-928_54
+54	una	uno	DET	an1fs	Gender=Fem|Number=Sing|PronType=Art	55	det	55:det	Canto=31|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-928_54
 55	fiata	fiata	NOUN	sf1fs	Gender=Fem|Number=Sing	53	obl:tmod	53:obl:tmod	Canto=31|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-928_55
 56	e	e	CCONJ	cscc	_	59	cc	59:cc	Canto=31|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-928_56
 57	una	uno	PRON	pi1fs	Gender=Fem|Number=Sing|PronType=Ind	59	obl:tmod	59:obl:tmod	Canto=31|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-928_57
@@ -9881,7 +9882,7 @@
 4	,	,	PUNCT	_	_	3	punct	3:punct	UniqueTokenId=OldItalian_Dante_Paradiso-934_4
 5	venendo	venire	VERB	vi3gp	VerbForm=Conv|Voice=Act	35	advcl	35:advcl	Canto=31|Verso=31|UniqueTokenId=OldItalian_Dante_Paradiso-934_5
 6	da	da	ADP	epskdl	_	8	case	8:case	Canto=31|Verso=31|UniqueTokenId=OldItalian_Dante_Paradiso-934_6
-7	tal	tale	DET	a2fs	Gender=Fem|Number=Sing	8	det	8:det	Canto=31|Verso=31|UniqueTokenId=OldItalian_Dante_Paradiso-934_7
+7	tal	tale	DET	a2fs	Gender=Fem|Number=Sing|PronType=Dem	8	det	8:det	Canto=31|Verso=31|UniqueTokenId=OldItalian_Dante_Paradiso-934_7
 8	plaga	plaga	NOUN	sf1fs	Gender=Fem|Number=Sing	5	obl:lmod	5:obl:lmod	Canto=31|Verso=31|UniqueTokenId=OldItalian_Dante_Paradiso-934_8
 9	che	che	PRON	pr	PronType=Rel	15	nsubj	15:nsubj	Canto=31|Verso=32|UniqueTokenId=OldItalian_Dante_Paradiso-934_9
 10	ciascun	ciascuno	DET	pi	PronType=Ind	11	det	11:det	Canto=31|Verso=32|UniqueTokenId=OldItalian_Dante_Paradiso-934_10
@@ -10552,7 +10553,7 @@
 20	non	non	ADV	b	PronType=Neg	23	advmod:neg	23:advmod:neg	Canto=31|Verso=105|UniqueTokenId=OldItalian_Dante_Paradiso-951_20
 21-22	sen	_	_	_	_	_	_	_	Canto=31|Comment=se-n|Verso=105|UniqueTokenId=OldItalian_Dante_Paradiso-951_21-22
 21	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	23	expl:pv	23:expl:pv	UniqueTokenId=OldItalian_Dante_Paradiso-951_21
-22	ne	ne	PRON	_	_	23	obl	23:obl	UniqueTokenId=OldItalian_Dante_Paradiso-951_22
+22	ne	ne	PRON	_	Clitic=Yes|PronType=Prs	23	obl	23:obl	UniqueTokenId=OldItalian_Dante_Paradiso-951_22
 23	sazia	saziare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	8:conj	Canto=31|SpaceAfter=No|Verso=105|UniqueTokenId=OldItalian_Dante_Paradiso-951_23
 24	,	,	PUNCT	_	_	26	punct	26:punct	UniqueTokenId=OldItalian_Dante_Paradiso-951_24
 25	ma	ma	CCONJ	csca	_	26	cc	26:cc	Canto=31|Verso=106|UniqueTokenId=OldItalian_Dante_Paradiso-951_25
@@ -10586,7 +10587,7 @@
 52	?	?	PUNCT	_	_	48	punct	48:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Paradiso-951_52
 53	»	»	PUNCT	_	_	48	punct	48:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Paradiso-951_53
 54	;	;	PUNCT	_	_	3	punct	3:punct	UniqueTokenId=OldItalian_Dante_Paradiso-951_54
-55	tal	tale	DET	a2ns	_	0	root	0:root	Canto=31|Verso=109|UniqueTokenId=OldItalian_Dante_Paradiso-951_55
+55	tal	tale	DET	a2ns	PronType=Dem	0	root	0:root	Canto=31|Verso=109|UniqueTokenId=OldItalian_Dante_Paradiso-951_55
 56	era	essere	AUX	vi4iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	55	cop	55:cop	Canto=31|Verso=109|UniqueTokenId=OldItalian_Dante_Paradiso-951_56
 57	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	55	nsubj	55:nsubj	Canto=31|Verso=109|UniqueTokenId=OldItalian_Dante_Paradiso-951_57
 58	mirando	mirare	VERB	vta1gp	VerbForm=Conv|Voice=Act	55	advcl	55:advcl	Canto=31|Verso=109|UniqueTokenId=OldItalian_Dante_Paradiso-951_58
@@ -10780,7 +10781,7 @@
 58	,	,	PUNCT	_	_	56	punct	56:punct	UniqueTokenId=OldItalian_Dante_Paradiso-954_58
 59	vid'	vedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	36	parataxis	36:parataxis	Canto=31|Verso=131|UniqueTokenId=OldItalian_Dante_Paradiso-954_59
 60	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	59	nsubj	59:nsubj	Canto=31|Verso=131|UniqueTokenId=OldItalian_Dante_Paradiso-954_60
-61	più	più	DET	b	_	63	det	63:det	Canto=31|Verso=131|UniqueTokenId=OldItalian_Dante_Paradiso-954_61
+61	più	più	DET	b	PronType=Ind	63	det	63:det	Canto=31|Verso=131|UniqueTokenId=OldItalian_Dante_Paradiso-954_61
 62	di	di	ADP	epsky	_	63	case	63:case	Canto=31|Verso=131|UniqueTokenId=OldItalian_Dante_Paradiso-954_62
 63	mille	mille	NUM	an	NumType=Card	64	nummod	64:nummod	Canto=31|Verso=131|UniqueTokenId=OldItalian_Dante_Paradiso-954_63
 64	angeli	angelo	NOUN	sm2mp	Gender=Masc|Number=Plur	59	obj	59:obj	Canto=31|Verso=131|UniqueTokenId=OldItalian_Dante_Paradiso-954_64
@@ -10949,10 +10950,10 @@
 9	,	,	PUNCT	_	_	3	punct	3:punct	UniqueTokenId=OldItalian_Dante_Paradiso-958_9
 10	siede	sedere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Canto=32|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-958_10
 11	Rachel	Rachele	PROPN	np	_	10	nsubj	10:nsubj	Canto=32|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-958_11
-12	di	di	ADP	_	_	15	case	15:case	UniqueTokenId=OldItalian_Dante_Paradiso-958_12
-13	sotto	sotto	ADV	_	_	12	fixed	12:fixed	UniqueTokenId=OldItalian_Dante_Paradiso-958_13
-14	da	da	ADP	_	_	12	fixed	12:fixed	UniqueTokenId=OldItalian_Dante_Paradiso-958_14
-15	costei	costei	PRON	pd3fs	Gender=Fem|Number=Sing|PronType=Dem	10	obl:lmod	10:obl:lmod	Canto=32|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-958_15
+12	di	di	ADP	_	_	13	case	13:case	UniqueTokenId=OldItalian_Dante_Paradiso-958_12
+13	sotto	sotto	ADV	_	_	10	obl:lmod	10:obl:lmod	UniqueTokenId=OldItalian_Dante_Paradiso-958_13
+14	da	da	ADP	_	_	15	case	15:case	UniqueTokenId=OldItalian_Dante_Paradiso-958_14
+15	costei	costei	PRON	pd3fs	Gender=Fem|Number=Sing|PronType=Dem	13	nmod	13:nmod	Canto=32|Verso=8|UniqueTokenId=OldItalian_Dante_Paradiso-958_15
 16	con	con	ADP	epskc	_	17	case	17:case	Canto=32|Verso=9|UniqueTokenId=OldItalian_Dante_Paradiso-958_16
 17	Beatrice	Beatrice	PROPN	np	_	10	obl	10:obl	Canto=32|SpaceAfter=No|Verso=9|UniqueTokenId=OldItalian_Dante_Paradiso-958_17
 18	,	,	PUNCT	_	_	22	punct	22:punct	UniqueTokenId=OldItalian_Dante_Paradiso-958_18
@@ -11078,7 +11079,7 @@
 1	Da	da	ADP	epsksl	_	3	case	3:case	Canto=32|Verso=22|UniqueTokenId=OldItalian_Dante_Paradiso-961_1
 2	questa	questo	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	Canto=32|Verso=22|UniqueTokenId=OldItalian_Dante_Paradiso-961_2
 3	parte	parte	NOUN	sf3fs	Gender=Fem|Number=Sing	16	obl:lmod	16:obl:lmod	Canto=32|Verso=22|UniqueTokenId=OldItalian_Dante_Paradiso-961_3
-4	onde	onde	PRON	p	_	8	obl:lmod	8:obl:lmod	Canto=32|Verso=22|UniqueTokenId=OldItalian_Dante_Paradiso-961_4
+4	onde	onde	PRON	p	PronType=Rel	8	obl:lmod	8:obl:lmod	Canto=32|Verso=22|UniqueTokenId=OldItalian_Dante_Paradiso-961_4
 5	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	Canto=32|Verso=22|UniqueTokenId=OldItalian_Dante_Paradiso-961_5
 6	fiore	fiore	NOUN	sm3ms	Gender=Masc|Number=Sing	8	nsubj	8:nsubj	Canto=32|Verso=22|UniqueTokenId=OldItalian_Dante_Paradiso-961_6
 7	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	Canto=32|Verso=22|UniqueTokenId=OldItalian_Dante_Paradiso-961_7
@@ -11102,7 +11103,7 @@
 25	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	27:det	Canto=32|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-961_25
 26	altra	altro	DET	ai	PronType=Ind	27	det	27:det	Canto=32|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-961_26
 27	parte	parte	NOUN	sf3fs	Gender=Fem|Number=Sing	37	obl:lmod	37:obl:lmod	Canto=32|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-961_27
-28	onde	onde	PRON	p	_	30	obl:lmod	30:obl:lmod	Canto=32|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-961_28
+28	onde	onde	PRON	p	PronType=Rel	30	obl:lmod	30:obl:lmod	Canto=32|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-961_28
 29	sono	essere	AUX	vi4ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux	30:aux	Canto=32|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-961_29
 30	intercisi	intercidere	VERB	vtp2ipp3	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	27	acl:relcl	27:acl:relcl	Canto=32|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-961_30
 31	di	di	ADP	epske	_	32	case	32:case	Canto=32|Verso=26|UniqueTokenId=OldItalian_Dante_Paradiso-961_31
@@ -11148,7 +11149,7 @@
 21	cerna	cerna	NOUN	sf1fs	Gender=Fem|Number=Sing	22	obj	22:obj	Canto=32|Verso=30|UniqueTokenId=OldItalian_Dante_Paradiso-962_21
 22	fanno	fare	VERB	vta1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	advcl:cmp	26.1:advcl:cmp	Canto=32|SpaceAfter=No|Verso=30|UniqueTokenId=OldItalian_Dante_Paradiso-962_22
 23	,	,	PUNCT	_	_	22	punct	22:punct	UniqueTokenId=OldItalian_Dante_Paradiso-962_23
-24	così	così	ADV	b	_	26	orphan	26.1:mark	Canto=32|Verso=31|UniqueTokenId=OldItalian_Dante_Paradiso-962_24
+24	così	così	ADV	b	_	27	orphan	26.1:mark	Canto=32|Verso=31|UniqueTokenId=OldItalian_Dante_Paradiso-962_24
 25	di	di	ADP	_	_	26	case	26:case	UniqueTokenId=OldItalian_Dante_Paradiso-962_25
 26	contra	contra	ADV	_	_	27	orphan	26.1:obl	UniqueTokenId=OldItalian_Dante_Paradiso-962_26
 26.1	fa	_	_	_	_	_	_	0:root	Antec=Yes|AntecPosit=Canto32-962_21-22|Form=Diff
@@ -11455,7 +11456,7 @@
 3	espresso	esprimere	VERB	vtp2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	advcl:pred	8:advcl:pred	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Paradiso-969_3
 4	e	e	CCONJ	cscc	_	5	cc	5:cc	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Paradiso-969_4
 5	chiaro	chiaro	ADJ	a1ms	Gender=Masc|Number=Sing	3	conj	3:conj	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Paradiso-969_5
-6	vi	vi	PRON	by	_	8	iobj	8:iobj	Canto=32|Clitic=Yes|Verso=67|UniqueTokenId=OldItalian_Dante_Paradiso-969_6
+6	vi	vi	PRON	by	PronType=Prs	8	iobj	8:iobj	Canto=32|Clitic=Yes|Verso=67|UniqueTokenId=OldItalian_Dante_Paradiso-969_6
 7	si	si	PRON	pf3ypa	Person=3|PronType=Prs|Reflex=Yes	8	expl:impers	8:expl:impers	Canto=32|Clitic=Yes|Verso=67|UniqueTokenId=OldItalian_Dante_Paradiso-969_7
 8	nota	notare	VERB	vtp1mps3	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	Canto=32|Verso=67|UniqueTokenId=OldItalian_Dante_Paradiso-969_8
 9	ne	in	ADP	epaksl	_	11	case	11:case	Canto=32|Verso=68|UniqueTokenId=OldItalian_Dante_Paradiso-969_9
@@ -11586,7 +11587,7 @@
 55	perfetto	perficere	VERB	vta2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	54	acl	54:acl	Canto=32|Verso=83|UniqueTokenId=OldItalian_Dante_Paradiso-972_55
 56	di	di	ADP	epskg	_	57	case	57:case	Canto=32|Verso=83|UniqueTokenId=OldItalian_Dante_Paradiso-972_56
 57	Cristo	Cristo	PROPN	np	_	54	nmod	54:nmod	Canto=32|Verso=83|UniqueTokenId=OldItalian_Dante_Paradiso-972_57
-58	tale	tale	DET	a2ns	_	59	det	59:det	Canto=32|Verso=84|UniqueTokenId=OldItalian_Dante_Paradiso-972_58
+58	tale	tale	DET	a2ns	PronType=Dem	59	det	59:det	Canto=32|Verso=84|UniqueTokenId=OldItalian_Dante_Paradiso-972_58
 59	innocenza	innocenza	NOUN	sf1fs	Gender=Fem|Number=Sing	63	nsubj:pass	63:nsubj:pass	Canto=32|Verso=84|UniqueTokenId=OldItalian_Dante_Paradiso-972_59
 60	là	là	ADV	_	_	63	advmod:lmod	63:advmod:lmod	UniqueTokenId=OldItalian_Dante_Paradiso-972_60
 61	giù	giù	ADV	_	_	63	advmod:lmod	63:advmod:lmod	UniqueTokenId=OldItalian_Dante_Paradiso-972_61
@@ -11713,7 +11714,7 @@
 16	vista	vista	NOUN	sf1fs	Gender=Fem|Number=Sing	19	nsubj	19:nsubj	Canto=32|Verso=99|UniqueTokenId=OldItalian_Dante_Paradiso-975_16
 17-18	sen	_	_	_	_	_	_	_	Canto=32|Comment=se-n|Verso=99|UniqueTokenId=OldItalian_Dante_Paradiso-975_17-18
 17	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	19	expl:pv	19:expl:pv	UniqueTokenId=OldItalian_Dante_Paradiso-975_17
-18	ne	ne	PRON	_	_	19	obl	19:obl	UniqueTokenId=OldItalian_Dante_Paradiso-975_18
+18	ne	ne	PRON	_	PronType=Prs	19	obl	19:obl	UniqueTokenId=OldItalian_Dante_Paradiso-975_18
 19	fé	fare	VERB	vta+1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	1:advcl	Canto=32|Verso=99|UniqueTokenId=OldItalian_Dante_Paradiso-975_19
 20	più	più	ADV	b	_	21	advmod	21:advmod	Canto=32|Verso=99|UniqueTokenId=OldItalian_Dante_Paradiso-975_20
 21	serena	sereno	ADJ	a1fsc+xc	Degree=Cmp|Gender=Fem|Number=Sing	19	xcomp	19:xcomp	Canto=32|SpaceAfter=No|Verso=99|UniqueTokenId=OldItalian_Dante_Paradiso-975_21
@@ -12385,9 +12386,9 @@
 17	vite	vita	NOUN	sf1fp	Gender=Fem|Number=Plur	15	obj	15:obj	Canto=33|Verso=24|UniqueTokenId=OldItalian_Dante_Paradiso-991_17
 18	spiritali	spirituale	ADJ	a2fp	Gender=Fem|Number=Plur	17	amod	17:amod	Canto=33|Verso=24|UniqueTokenId=OldItalian_Dante_Paradiso-991_18
 19	ad	a	ADP	epskb	_	20	case	20:case	Canto=33|Verso=24|UniqueTokenId=OldItalian_Dante_Paradiso-991_19
-20	una	uno	DET	an1fs	Gender=Fem|Number=Sing	15	obl	15:obl	Canto=33|Verso=24|UniqueTokenId=OldItalian_Dante_Paradiso-991_20
+20	una	uno	DET	an1fs	Gender=Fem|Number=Sing|PronType=Art	15	obl	15:obl	Canto=33|Verso=24|UniqueTokenId=OldItalian_Dante_Paradiso-991_20
 21	ad	a	ADP	epskb	_	22	case	22:case	Canto=33|Verso=24|UniqueTokenId=OldItalian_Dante_Paradiso-991_21
-22	una	uno	DET	an1fs	Gender=Fem|Number=Sing	20	flat:redup	20:flat:redup	Canto=33|SpaceAfter=No|Verso=24|UniqueTokenId=OldItalian_Dante_Paradiso-991_22
+22	una	uno	DET	an1fs	Gender=Fem|Number=Sing|PronType=Art	20	flat:redup	20:flat:redup	Canto=33|SpaceAfter=No|Verso=24|UniqueTokenId=OldItalian_Dante_Paradiso-991_22
 23	,	,	PUNCT	_	_	2	punct	2:punct	UniqueTokenId=OldItalian_Dante_Paradiso-991_23
 24	supplica	supplicare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Canto=33|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-991_24
 25	a	a	ADP	epsk1d	_	26	case	26:case	Canto=33|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-991_25
@@ -12398,7 +12399,7 @@
 30	,	,	PUNCT	_	_	33	punct	33:punct	UniqueTokenId=OldItalian_Dante_Paradiso-991_30
 31	di	di	ADP	epsk8	_	32	case	32:case	Canto=33|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-991_31
 32	virtute	virtù	NOUN	sf3fs	Gender=Fem|Number=Sing	33	nmod	33:nmod	Canto=33|Verso=25|UniqueTokenId=OldItalian_Dante_Paradiso-991_32
-33	tanto	tanto	PRON	b	_	24	obj	24:obj	Canto=33|SpaceAfter=No|Verso=26|UniqueTokenId=OldItalian_Dante_Paradiso-991_33
+33	tanto	tanto	ADV	b	_	24	advmod	24:advmod	Canto=33|SpaceAfter=No|Verso=26|UniqueTokenId=OldItalian_Dante_Paradiso-991_33
 34	,	,	PUNCT	_	_	40	punct	40:punct	UniqueTokenId=OldItalian_Dante_Paradiso-991_34
 35	che	che	SCONJ	cssu	_	40	mark	40:mark	Canto=33|Verso=26|UniqueTokenId=OldItalian_Dante_Paradiso-991_35
 36	possa	potere	AUX	vta2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	aux	40:aux	Canto=33|Verso=26|UniqueTokenId=OldItalian_Dante_Paradiso-991_36
@@ -12632,7 +12633,7 @@
 17	per	per	ADP	epskw	_	18	case	18:case	Canto=33|Verso=51|UniqueTokenId=OldItalian_Dante_Paradiso-997_17
 18	me	me	PRON	pf1slpr	Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	20	obl	20:obl	Canto=33|Verso=51|UniqueTokenId=OldItalian_Dante_Paradiso-997_18
 19	stesso	stesso	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	18	det	18:det	Canto=33|Verso=51|UniqueTokenId=OldItalian_Dante_Paradiso-997_19
-20	tal	tale	DET	a2ns	_	3	parataxis	3:parataxis	Canto=33|Verso=51|UniqueTokenId=OldItalian_Dante_Paradiso-997_20
+20	tal	tale	DET	a2ns	PronType=Dem	3	parataxis	3:parataxis	Canto=33|Verso=51|UniqueTokenId=OldItalian_Dante_Paradiso-997_20
 21	qual	quale	DET	ar	PronType=Rel	23	det	23:det	Canto=33|Verso=51|UniqueTokenId=OldItalian_Dante_Paradiso-997_21
 22	ei	egli	PRON	pp3mlso	Gender=Masc|Person=3|PronType=Prs	23	nsubj	23:nsubj	Canto=33|Verso=51|UniqueTokenId=OldItalian_Dante_Paradiso-997_22
 23	volea	volere	VERB	vta2iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl:cmp	20:advcl:cmp	Canto=33|SpaceAfter=No|Verso=51|UniqueTokenId=OldItalian_Dante_Paradiso-997_23
@@ -12681,7 +12682,7 @@
 13	,	,	PUNCT	_	_	18	punct	18:punct	UniqueTokenId=OldItalian_Dante_Paradiso-998_13
 14	ch'	che	PRON	pr	PronType=Rel	18	nsubj	18:nsubj	Canto=33|Verso=56|UniqueTokenId=OldItalian_Dante_Paradiso-998_14
 15	a	a	ADP	epskr	_	17	case	17:case	Canto=33|Verso=56|UniqueTokenId=OldItalian_Dante_Paradiso-998_15
-16	tal	tale	DET	a2fs	Gender=Fem|Number=Sing	17	det	17:det	Canto=33|Verso=56|UniqueTokenId=OldItalian_Dante_Paradiso-998_16
+16	tal	tale	DET	a2fs	Gender=Fem|Number=Sing|PronType=Dem	17	det	17:det	Canto=33|Verso=56|UniqueTokenId=OldItalian_Dante_Paradiso-998_16
 17	vista	vista	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obl	18:obl	Canto=33|Verso=56|UniqueTokenId=OldItalian_Dante_Paradiso-998_17
 18	cede	cedere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Canto=33|SpaceAfter=No|Verso=56|UniqueTokenId=OldItalian_Dante_Paradiso-998_18
 19	,	,	PUNCT	_	_	21	punct	21:punct	UniqueTokenId=OldItalian_Dante_Paradiso-998_19
@@ -12798,7 +12799,7 @@
 16	mente	mente	NOUN	sf3fs	Gender=Fem|Number=Sing	17	obl	17:obl	Canto=33|Verso=68|UniqueTokenId=OldItalian_Dante_Paradiso-1001_16
 17	ripresta	riprestare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Canto=33|Verso=69|UniqueTokenId=OldItalian_Dante_Paradiso-1001_17
 18	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	19:det	Canto=33|Verso=69|UniqueTokenId=OldItalian_Dante_Paradiso-1001_18
-19	poco	poco	NOUN	_	_	17	obj	17:obj	Canto=33|Verso=69|UniqueTokenId=OldItalian_Dante_Paradiso-1001_19
+19	poco	poco	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	17	obj	17:obj	Canto=33|Verso=69|UniqueTokenId=OldItalian_Dante_Paradiso-1001_19
 20	di	di	ADP	epsk8	_	21	case	21:case	Canto=33|Verso=69|UniqueTokenId=OldItalian_Dante_Paradiso-1001_20
 21	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	19	nmod	19:nmod	Canto=33|Verso=69|UniqueTokenId=OldItalian_Dante_Paradiso-1001_21
 22	che	che	PRON	pr	PronType=Rel	23	obj	23:obj	Canto=33|Verso=69|UniqueTokenId=OldItalian_Dante_Paradiso-1001_22
@@ -12813,7 +12814,7 @@
 31	possente	potere	VERB	vta2ppa2fs	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	26	xcomp	26:xcomp	Canto=33|SpaceAfter=No|Verso=70|UniqueTokenId=OldItalian_Dante_Paradiso-1001_31
 32	,	,	PUNCT	_	_	42	punct	42:punct	UniqueTokenId=OldItalian_Dante_Paradiso-1001_32
 33	ch'	che	SCONJ	cssu	_	42	mark	42:mark	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Paradiso-1001_33
-34	una	uno	DET	an1fs	Gender=Fem|Number=Sing	35	det	35:det	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Paradiso-1001_34
+34	una	uno	DET	an1fs	Gender=Fem|Number=Sing|PronType=Art	35	det	35:det	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Paradiso-1001_34
 35	favilla	favilla	NOUN	sf1fs	Gender=Fem|Number=Sing	42	nsubj	42:nsubj	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Paradiso-1001_35
 36	sol	solo	ADV	b	_	35	advmod	35:advmod	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Paradiso-1001_36
 37	de	di	ADP	eps	_	40	case	40:case	Canto=33|Verso=71|UniqueTokenId=OldItalian_Dante_Paradiso-1001_37
@@ -12838,8 +12839,8 @@
 56	e	e	CCONJ	cscc	_	58	cc	58:cc	Canto=33|Verso=74|UniqueTokenId=OldItalian_Dante_Paradiso-1001_56
 57	per	per	ADP	epsc	_	58	mark	58:mark	Canto=33|Verso=74|UniqueTokenId=OldItalian_Dante_Paradiso-1001_57
 58	sonare	suonare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	51	conj	51:conj	Canto=33|Verso=74|UniqueTokenId=OldItalian_Dante_Paradiso-1001_58
-59	un	un	DET	_	Gender=Masc|Number=Sing	60	det	60:det	UniqueTokenId=OldItalian_Dante_Paradiso-1001_59
-60	poco	poco	DET	_	Gender=Masc|Number=Sing|PronType=Ind	58	advmod	58:advmod	UniqueTokenId=OldItalian_Dante_Paradiso-1001_60
+59	un	un	DET	_	Gender=Masc|Number=Sing|PronType=Art	60	det	60:det	UniqueTokenId=OldItalian_Dante_Paradiso-1001_59
+60	poco	poco	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	58	obl	58:obl	UniqueTokenId=OldItalian_Dante_Paradiso-1001_60
 61	in	in	ADP	epsksl	_	63	case	63:case	Canto=33|Verso=74|UniqueTokenId=OldItalian_Dante_Paradiso-1001_61
 62	questi	questo	DET	ad1mp	Gender=Masc|Number=Plur|PronType=Dem	63	det	63:det	Canto=33|Verso=74|UniqueTokenId=OldItalian_Dante_Paradiso-1001_62
 63	versi	verso	NOUN	sm2mp	Gender=Masc|Number=Plur	58	obl:lmod	58:obl:lmod	Canto=33|SpaceAfter=No|Verso=74|UniqueTokenId=OldItalian_Dante_Paradiso-1001_63
@@ -12953,7 +12954,7 @@
 11	con	con	ADP	epskm	_	12	case	12:case	Canto=33|Verso=86|UniqueTokenId=OldItalian_Dante_Paradiso-1005_11
 12	amore	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obl	10:obl	Canto=33|Verso=86|UniqueTokenId=OldItalian_Dante_Paradiso-1005_12
 13	in	in	ADP	epsksl	_	15	case	15:case	Canto=33|Verso=86|UniqueTokenId=OldItalian_Dante_Paradiso-1005_13
-14	un	uno	DET	an1ms	Gender=Masc|Number=Sing	15	det	15:det	Canto=33|Verso=86|UniqueTokenId=OldItalian_Dante_Paradiso-1005_14
+14	un	uno	DET	an1ms	Gender=Masc|Number=Sing|PronType=Art	15	det	15:det	Canto=33|Verso=86|UniqueTokenId=OldItalian_Dante_Paradiso-1005_14
 15	volume	volume	NOUN	sm3ms	Gender=Masc|Number=Sing	10	obl:lmod	10:obl:lmod	Canto=33|SpaceAfter=No|Verso=86|UniqueTokenId=OldItalian_Dante_Paradiso-1005_15
 16	,	,	PUNCT	_	_	17	punct	17:punct	UniqueTokenId=OldItalian_Dante_Paradiso-1005_16
 17	ciò	cio'	PRON	pd	PronType=Dem	8	nsubj	8:nsubj	Canto=33|Verso=87|UniqueTokenId=OldItalian_Dante_Paradiso-1005_17
@@ -12975,7 +12976,7 @@
 33	insieme	insieme	ADV	b	_	32	advmod	32:advmod	Canto=33|SpaceAfter=No|Verso=89|UniqueTokenId=OldItalian_Dante_Paradiso-1005_33
 34	,	,	PUNCT	_	_	37	punct	37:punct	UniqueTokenId=OldItalian_Dante_Paradiso-1005_34
 35	per	per	ADP	epskm	_	37	case	37:case	Canto=33|Verso=89|UniqueTokenId=OldItalian_Dante_Paradiso-1005_35
-36	tal	tale	DET	a2ns	_	37	det	37:det	Canto=33|Verso=89|UniqueTokenId=OldItalian_Dante_Paradiso-1005_36
+36	tal	tale	DET	a2ns	PronType=Dem	37	det	37:det	Canto=33|Verso=89|UniqueTokenId=OldItalian_Dante_Paradiso-1005_36
 37	modo	modo	NOUN	sm2ms	Gender=Masc|Number=Sing	32	obl	32:obl	Canto=33|Verso=89|UniqueTokenId=OldItalian_Dante_Paradiso-1005_37
 38	che	che	SCONJ	cssu	_	46	mark	46:mark	Canto=33|Verso=90|UniqueTokenId=OldItalian_Dante_Paradiso-1005_38
 39	ciò	cio'	PRON	pd	PronType=Dem	46	nsubj	46:nsubj	Canto=33|Verso=90|UniqueTokenId=OldItalian_Dante_Paradiso-1005_39
@@ -13018,7 +13019,7 @@
 
 # sent_id = OldItalian_Dante_Paradiso-1007
 # text = Un punto solo m' è maggior letargo che venticinque secoli a la 'mpresa, che fé Nettuno ammirar l' ombra d' Argo.
-1	Un	uno	DET	an1ms	Gender=Masc|Number=Sing	2	det	2:det	Canto=33|Verso=94|UniqueTokenId=OldItalian_Dante_Paradiso-1007_1
+1	Un	uno	DET	an1ms	Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Canto=33|Verso=94|UniqueTokenId=OldItalian_Dante_Paradiso-1007_1
 2	punto	punto	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nsubj	7:nsubj	Canto=33|Verso=94|UniqueTokenId=OldItalian_Dante_Paradiso-1007_2
 3	solo	solo	ADJ	a1ms	Gender=Masc|Number=Sing	2	amod	2:amod	Canto=33|Verso=94|UniqueTokenId=OldItalian_Dante_Paradiso-1007_3
 4	m'	mi	PRON	pp1syda	Person=1|Poss=Yes|PronType=Prs	7	iobj	7:iobj	Canto=33|Clitic=Yes|Verso=94|UniqueTokenId=OldItalian_Dante_Paradiso-1007_4
@@ -13177,7 +13178,7 @@
 15	mirava	mirare	VERB	vta1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	12:acl:relcl	Canto=33|SpaceAfter=No|Verso=110|UniqueTokenId=OldItalian_Dante_Paradiso-1011_15
 16	,	,	PUNCT	_	_	18	punct	18:punct	UniqueTokenId=OldItalian_Dante_Paradiso-1011_16
 17	che	che	PRON	pr	PronType=Rel	18	nsubj	18:nsubj	Canto=33|Verso=111|UniqueTokenId=OldItalian_Dante_Paradiso-1011_17
-18	tal	tale	DET	a2ns	_	12	acl:relcl	12:acl:relcl	Canto=33|Verso=111|UniqueTokenId=OldItalian_Dante_Paradiso-1011_18
+18	tal	tale	DET	a2ns	PronType=Dem	12	acl:relcl	12:acl:relcl	Canto=33|Verso=111|UniqueTokenId=OldItalian_Dante_Paradiso-1011_18
 19	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	Canto=33|Verso=111|UniqueTokenId=OldItalian_Dante_Paradiso-1011_19
 20	sempre	sempre	ADV	b	_	18	advmod:tmod	18:advmod:tmod	Canto=33|Verso=111|UniqueTokenId=OldItalian_Dante_Paradiso-1011_20
 21	qual	quale	DET	ar	PronType=Rel	24	det	24:det	Canto=33|Verso=111|UniqueTokenId=OldItalian_Dante_Paradiso-1011_21
@@ -13196,7 +13197,7 @@
 34	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	32	obl:lmod	32:obl:lmod	Canto=33|Verso=113|UniqueTokenId=OldItalian_Dante_Paradiso-1011_34
 35	guardando	guardare	VERB	vta1gp	VerbForm=Conv|Voice=Act	32	advcl	32:advcl	Canto=33|SpaceAfter=No|Verso=113|UniqueTokenId=OldItalian_Dante_Paradiso-1011_35
 36	,	,	PUNCT	_	_	29	punct	29:punct	UniqueTokenId=OldItalian_Dante_Paradiso-1011_36
-37	una	uno	DET	an1fs	Gender=Fem|Number=Sing	39	det	39:det	Canto=33|Verso=113|UniqueTokenId=OldItalian_Dante_Paradiso-1011_37
+37	una	uno	DET	an1fs	Gender=Fem|Number=Sing|PronType=Art	39	det	39:det	Canto=33|Verso=113|UniqueTokenId=OldItalian_Dante_Paradiso-1011_37
 38	sola	solo	ADJ	a1fs	Gender=Fem|Number=Sing	39	amod	39:amod	Canto=33|Verso=113|UniqueTokenId=OldItalian_Dante_Paradiso-1011_38
 39	parvenza	parvenza	NOUN	sf1fs	Gender=Fem|Number=Sing	48	nsubj	48:nsubj	Canto=33|SpaceAfter=No|Verso=113|UniqueTokenId=OldItalian_Dante_Paradiso-1011_39
 40	,	,	PUNCT	_	_	41	punct	41:punct	UniqueTokenId=OldItalian_Dante_Paradiso-1011_40
@@ -13233,7 +13234,7 @@
 17	colori	colore	NOUN	sm3mp	Gender=Masc|Number=Plur	14	nmod	14:nmod	Canto=33|Verso=117|UniqueTokenId=OldItalian_Dante_Paradiso-1012_17
 18	e	e	CCONJ	cscc	_	21	cc	21:cc	Canto=33|Verso=117|UniqueTokenId=OldItalian_Dante_Paradiso-1012_18
 19	d'	di	ADP	eps	_	21	case	21:case	Canto=33|Verso=117|UniqueTokenId=OldItalian_Dante_Paradiso-1012_19
-20	una	uno	DET	an1fs	Gender=Fem|Number=Sing	21	det	21:det	Canto=33|Verso=117|UniqueTokenId=OldItalian_Dante_Paradiso-1012_20
+20	una	uno	DET	an1fs	Gender=Fem|Number=Sing|PronType=Art	21	det	21:det	Canto=33|Verso=117|UniqueTokenId=OldItalian_Dante_Paradiso-1012_20
 21	contenenza	contenenza	NOUN	sf1fs	Gender=Fem|Number=Sing	17	conj	17:conj	Canto=33|SpaceAfter=No|Verso=117|UniqueTokenId=OldItalian_Dante_Paradiso-1012_21
 22	;	;	PUNCT	_	_	33	punct	33:punct	UniqueTokenId=OldItalian_Dante_Paradiso-1012_22
 23	e	e	CCONJ	cscc	_	33	cc	33:cc	Canto=33|Verso=118|UniqueTokenId=OldItalian_Dante_Paradiso-1012_23
@@ -13409,7 +13410,7 @@
 23	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	24:nsubj	Canto=33|Verso=135|UniqueTokenId=OldItalian_Dante_Paradiso-1016_23
 24	indige	indigere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	21:acl:relcl	Canto=33|SpaceAfter=No|Verso=135|UniqueTokenId=OldItalian_Dante_Paradiso-1016_24
 25	,	,	PUNCT	_	_	21	punct	21:punct	UniqueTokenId=OldItalian_Dante_Paradiso-1016_25
-26	tal	tale	DET	a2ns	_	0	root	0:root	Canto=33|Verso=136|UniqueTokenId=OldItalian_Dante_Paradiso-1016_26
+26	tal	tale	DET	a2ns	PronType=Dem	0	root	0:root	Canto=33|Verso=136|UniqueTokenId=OldItalian_Dante_Paradiso-1016_26
 27	era	essere	AUX	vi4iis1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	26	cop	26:cop	Canto=33|Verso=136|UniqueTokenId=OldItalian_Dante_Paradiso-1016_27
 28	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	26	nsubj	26:nsubj	Canto=33|Verso=136|UniqueTokenId=OldItalian_Dante_Paradiso-1016_28
 29	a	a	ADP	epskr	_	31	case	31:case	Canto=33|Verso=136|UniqueTokenId=OldItalian_Dante_Paradiso-1016_29
