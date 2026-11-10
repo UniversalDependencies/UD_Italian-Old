@@ -25,7 +25,7 @@ The distribution of Paradiso (tokens: 39 393) with respect to the subsets is as 
 
 The treebank also includes enhanced dependencies annotation, with a specific focus on the `orphan` dependency relation. For the criteria adopted in the enhanced annotation, please refer to the paper "«Are you Afraid of Ghosts?» A Proposal for Busting Predicate Ellipsis in Universal Dependencies" (Corbetta et al., 2025).
 
-**!!  Italian-Old treebank is still under revision to check for mistakes and inconsistencies throughout the annotation of the Cantiche; therefore, its structure is subject to change. If you use the resource and find any problems, please do not hesitate to contact the author to suggest a correction or improvement.**
+** If you use the resource and find any problems, please do not hesitate to contact the author to suggest a correction or improvement.**
 
 # Acknowledgments
 
@@ -35,7 +35,7 @@ We extend our gratitude to all the individuals who made this work possible.
 The annotation of the sonnet by Arnaut Daniel (Purgatorio, XXVI vv.140-147) was carried out by Michele Tron.
 
 
-For any doubts, suggestions, or reports, please do not hesitate to contact the person in charge: claudia.corbetta@unibg.it.
+For any doubts, suggestions, or reports, please do not hesitate to contact the person in charge: claudia.corbetta@univr.it.
 
 
 ## References
@@ -59,10 +59,14 @@ For information on the enhancement process, refer to:
 
 # Changelog
 
+* 2026-11-15 v2.19
+        * Annotation fixes following UD validation, including PronType, ExtPos, and dependency relations.
+* 2025-11-15 v2.17
+        * Enhanced annotation of ellipsis.
 * 2024-11-15 v2.15
-        * Paradiso
+        * Paradiso.
 * 2024-05-15 v2.14
-        * Purgatorio
+        * Purgatorio.
 * 2023-11-15 v2.13
         * Initial release in Universal Dependencies: Inferno.
 
@@ -81,6 +85,6 @@ Features: converted with corrections
 Relations: manual native
 Contributors: Corbetta, Claudia; Passarotti, Marco; Cecchini, Flavio Massimiliano; Moretti, Giovanni
 Contributing: here
-Contact: claudia.corbetta@unibg.it
+Contact: claudia.corbetta@univr.it
 ===============================================================================
 </pre>
